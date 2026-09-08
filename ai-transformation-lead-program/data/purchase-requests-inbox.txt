@@ -1,0 +1,117 @@
+=====================================================================
+MERIDIAN GROUP OF SCHOOLS — PURCHASE REQUESTS, RAW INBOX EXTRACT
+Group Purchase Desk · 18 Aug 2026 to 05 Sep 2026
+Synthetic training data. Fictional people, campuses and vendors.
+
+This is what actually reaches the Group Purchase Head: WhatsApp forwards,
+half-written emails, and messages taken down from phone calls. There is no
+form, no template and no requisition number. Structuring this is the job.
+=====================================================================
+
+
+--- WhatsApp: "MGS Purchase Coordination" group ---
+
+[18/08/26, 9:14 am] Suresh Kulkarni (Admin Mgr, Nashik):
+Good morning sir. Urgent requirement for 40 classroom chairs, Grade 6 and 7
+wing. Existing ones broken. Need before PTM on 12 September please.
+
+[18/08/26, 9:31 am] Group Purchase Desk:
+Noted. Budget head?
+
+[18/08/26, 11:02 am] Suresh Kulkarni:
+Sir principal madam said take from campus maintenance. Approx 4500 each we
+got last time from Nirmal.
+
+[19/08/26, 4:47 pm] Reshma Pillai (Coordinator, Powai):
+Requirement: 2 nos interactive panel 75 inch for Grade 9 sections. Also need
+the wall mount and installation. When can we expect? Board has approved in
+the June meeting itself.
+
+[20/08/26, 8:02 am] Anil Bhatt (Lab Asst, Pune-Baner):
+sir chemistry lab ke liye glassware set 4 chahiye, borosil wala. aur ek fume
+hood bhi. purana leak kar raha hai. urgent hai sir inspection aa raha hai
+15 October ko
+
+[20/08/26, 10:20 am] Group Purchase Desk:
+@Anil please send through Principal.
+
+[20/08/26, 10:44 am] Anil Bhatt:
+ji sir bol diya hai unko
+
+[21/08/26, 2:15 pm] Trupti Deshpande (Librarian, Thane):
+Library racks - 6 double sided, 7 shelf. Also 200 books as per attached list
+(list not attached, will send). Budget was sanctioned 3.5 lakh for library
+this year, only 40k used so far.
+
+[22/08/26, 7:55 pm] Faisal Khan (Sports, Indore):
+Need 30 fire extinguishers ABC type 6kg. Fire NOC renewal is due, safety
+officer said mandatory. Deadline 30 September, cannot extend.
+
+[23/08/26, 9:10 am] Gauri Sharma (VP, Hubballi):
+Repeat of last year order — 60 lab stools. Same vendor same rate if possible.
+
+[25/08/26, 6:30 pm] Suresh Kulkarni (Nashik):
+Sir any update on chairs? PTM is coming.
+
+[26/08/26, 11:47 am] Deepa Menon (Accountant, Surat):
+Purchase asking for 4 nos online UPS 3kva. But sir this is capex, needs
+trustee approval na? Amount will cross 2 lakh. Please confirm before we
+proceed.
+
+[28/08/26, 3:22 pm] Vaishali Rao (Admin, Kalyan):
+Whiteboards 12 nos, 8x4 magnetic ceramic. Ours are all damaged, teachers
+complaining since June.
+
+[29/08/26, 8:05 am] Reshma Pillai (Powai):
+Following up on the panels. Also adding 4 more for Grade 10. So total 6 now.
+
+[01/09/26, 12:40 pm] Nikhil Joshi (Principal, Pune-Wakad):
+We need 20 microscopes for the new biology lab. Phase 2 science block.
+Required by 15 November as per the CAPEX plan. Please initiate three-quote
+process. Budget head CAPEX-2026-27 / Science Block Phase 2.
+
+
+--- Email fragments forwarded to purchase@meridianschools.example.in ---
+
+From: principal.andheri@meridianschools.example.in
+Date: 24 Aug 2026
+Subject: Fwd: Urgent - AC servicing and 2 new units
+
+...the two units in the computer lab are beyond repair as per the technician.
+He is quoting 52,000 per unit for 2 ton inverter AC including installation.
+Servicing of remaining 18 units also pending, he says 1,800 per unit. Please
+advise whether to take from him directly, he has done our work for 4 years.
+Regards, Principal Andheri
+
+From: accounts.vadodara@meridianschools.example.in
+Date: 27 Aug 2026
+Subject: Stationery and printing - quarterly
+
+Attaching last quarter's bill for reference. Same quantities to be repeated.
+Approx 88,000 per quarter. Vendor: Alkapuri Stationers. We have been using
+them since campus opening, no issues. Kindly approve.
+
+From: vp.bengaluru@meridianschools.example.in
+Date: 02 Sep 2026
+Subject: PYP resources
+
+Hi, we need the IB PYP resource kits for 6 units of inquiry. Only one supplier
+in India has the authorised kits — Inquiry Learning Resources, Chennai. Cost
+around 2,40,000 total. Since single supplier, how do we handle the three quote
+rule? Please guide.
+
+From: admin.nagpur@meridianschools.example.in
+Date: 03 Sep 2026
+Subject: (no subject)
+
+Water purifier 3 nos RO+UV 50 lpH for the primary block. Also please note the
+existing AMC with Aquapure expires on 30 Sep, do we renew? Their renewal quote
+is 46,000 for the year, last year was 38,000.
+
+From: principal.ahmedabad@meridianschools.example.in
+Date: 05 Sep 2026
+Subject: RE: RE: Furniture
+
+...as discussed on call, we have already placed the order with the local
+vendor because the students had no benches. 60 desk-bench units, 4,900 each.
+Delivery next week. Kindly regularise the paperwork from your end.

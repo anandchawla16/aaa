@@ -1,0 +1,281 @@
+campus,month,channel,spend_inr
+Andheri,May-2026,Google Ads,13300
+Andheri,May-2026,Meta Ads,10900
+Andheri,May-2026,Hoarding,13300
+Andheri,May-2026,Education Fair,9800
+Andheri,May-2026,Print,7800
+Andheri,Jun-2026,Google Ads,11400
+Andheri,Jun-2026,Meta Ads,11700
+Andheri,Jun-2026,Hoarding,37300
+Andheri,Jun-2026,Education Fair,8000
+Andheri,Jun-2026,Print,5700
+Andheri,Jul-2026,Google Ads,11200
+Andheri,Jul-2026,Meta Ads,9900
+Andheri,Jul-2026,Hoarding,35000
+Andheri,Jul-2026,Education Fair,6600
+Andheri,Jul-2026,Print,1500
+Andheri,Aug-2026,Google Ads,15000
+Andheri,Aug-2026,Meta Ads,8300
+Andheri,Aug-2026,Hoarding,11600
+Andheri,Aug-2026,Education Fair,5300
+Andheri,Aug-2026,Print,1900
+Powai,May-2026,Google Ads,14600
+Powai,May-2026,Meta Ads,8200
+Powai,May-2026,Hoarding,34300
+Powai,May-2026,Education Fair,200
+Powai,May-2026,Print,1400
+Powai,Jun-2026,Google Ads,11000
+Powai,Jun-2026,Meta Ads,8600
+Powai,Jun-2026,Hoarding,26600
+Powai,Jun-2026,Education Fair,700
+Powai,Jun-2026,Print,1200
+Powai,Jul-2026,Google Ads,10200
+Powai,Jul-2026,Meta Ads,14600
+Powai,Jul-2026,Hoarding,5200
+Powai,Jul-2026,Education Fair,300
+Powai,Jul-2026,Print,2800
+Powai,Aug-2026,Google Ads,15000
+Powai,Aug-2026,Meta Ads,10800
+Powai,Aug-2026,Hoarding,20400
+Powai,Aug-2026,Education Fair,6800
+Powai,Aug-2026,Print,1000
+Thane,May-2026,Google Ads,8300
+Thane,May-2026,Meta Ads,3800
+Thane,May-2026,Hoarding,14400
+Thane,May-2026,Education Fair,2600
+Thane,May-2026,Print,4800
+Thane,Jun-2026,Google Ads,6100
+Thane,Jun-2026,Meta Ads,6900
+Thane,Jun-2026,Hoarding,13800
+Thane,Jun-2026,Education Fair,600
+Thane,Jun-2026,Print,4100
+Thane,Jul-2026,Google Ads,4600
+Thane,Jul-2026,Meta Ads,9000
+Thane,Jul-2026,Hoarding,7700
+Thane,Jul-2026,Education Fair,3700
+Thane,Jul-2026,Print,5300
+Thane,Aug-2026,Google Ads,7600
+Thane,Aug-2026,Meta Ads,5900
+Thane,Aug-2026,Hoarding,19900
+Thane,Aug-2026,Education Fair,4100
+Thane,Aug-2026,Print,4500
+Kalyan,May-2026,Google Ads,8600
+Kalyan,May-2026,Meta Ads,7800
+Kalyan,May-2026,Hoarding,3200
+Kalyan,May-2026,Education Fair,500
+Kalyan,May-2026,Print,1800
+Kalyan,Jun-2026,Google Ads,6200
+Kalyan,Jun-2026,Meta Ads,5000
+Kalyan,Jun-2026,Hoarding,14000
+Kalyan,Jun-2026,Education Fair,8000
+Kalyan,Jun-2026,Print,3200
+Kalyan,Jul-2026,Google Ads,10400
+Kalyan,Jul-2026,Meta Ads,7400
+Kalyan,Jul-2026,Hoarding,500
+Kalyan,Jul-2026,Education Fair,5000
+Kalyan,Jul-2026,Print,1100
+Kalyan,Aug-2026,Google Ads,10300
+Kalyan,Aug-2026,Meta Ads,4200
+Kalyan,Aug-2026,Hoarding,21800
+Kalyan,Aug-2026,Education Fair,1300
+Kalyan,Aug-2026,Print,1100
+Pune-Baner,May-2026,Google Ads,11800
+Pune-Baner,May-2026,Meta Ads,12500
+Pune-Baner,May-2026,Hoarding,6200
+Pune-Baner,May-2026,Education Fair,3900
+Pune-Baner,May-2026,Print,3400
+Pune-Baner,Jun-2026,Google Ads,11600
+Pune-Baner,Jun-2026,Meta Ads,9700
+Pune-Baner,Jun-2026,Hoarding,24200
+Pune-Baner,Jun-2026,Education Fair,10600
+Pune-Baner,Jun-2026,Print,9800
+Pune-Baner,Jul-2026,Google Ads,17900
+Pune-Baner,Jul-2026,Meta Ads,8400
+Pune-Baner,Jul-2026,Hoarding,7300
+Pune-Baner,Jul-2026,Education Fair,3700
+Pune-Baner,Jul-2026,Print,7600
+Pune-Baner,Aug-2026,Google Ads,10700
+Pune-Baner,Aug-2026,Meta Ads,7800
+Pune-Baner,Aug-2026,Hoarding,21200
+Pune-Baner,Aug-2026,Education Fair,2300
+Pune-Baner,Aug-2026,Print,3200
+Pune-Wakad,May-2026,Google Ads,13100
+Pune-Wakad,May-2026,Meta Ads,10200
+Pune-Wakad,May-2026,Hoarding,6700
+Pune-Wakad,May-2026,Education Fair,3500
+Pune-Wakad,May-2026,Print,1700
+Pune-Wakad,Jun-2026,Google Ads,15100
+Pune-Wakad,Jun-2026,Meta Ads,14100
+Pune-Wakad,Jun-2026,Hoarding,5500
+Pune-Wakad,Jun-2026,Education Fair,5900
+Pune-Wakad,Jun-2026,Print,8700
+Pune-Wakad,Jul-2026,Google Ads,9600
+Pune-Wakad,Jul-2026,Meta Ads,14400
+Pune-Wakad,Jul-2026,Hoarding,38600
+Pune-Wakad,Jul-2026,Education Fair,6100
+Pune-Wakad,Jul-2026,Print,9700
+Pune-Wakad,Aug-2026,Google Ads,10200
+Pune-Wakad,Aug-2026,Meta Ads,14100
+Pune-Wakad,Aug-2026,Hoarding,5100
+Pune-Wakad,Aug-2026,Education Fair,3500
+Pune-Wakad,Aug-2026,Print,5700
+Nashik,May-2026,Google Ads,13600
+Nashik,May-2026,Meta Ads,14500
+Nashik,May-2026,Hoarding,3700
+Nashik,May-2026,Education Fair,6500
+Nashik,May-2026,Print,9600
+Nashik,Jun-2026,Google Ads,13000
+Nashik,Jun-2026,Meta Ads,12200
+Nashik,Jun-2026,Hoarding,3900
+Nashik,Jun-2026,Education Fair,10500
+Nashik,Jun-2026,Print,9500
+Nashik,Jul-2026,Google Ads,11200
+Nashik,Jul-2026,Meta Ads,17000
+Nashik,Jul-2026,Hoarding,31000
+Nashik,Jul-2026,Education Fair,6400
+Nashik,Jul-2026,Print,2100
+Nashik,Aug-2026,Google Ads,18400
+Nashik,Aug-2026,Meta Ads,10100
+Nashik,Aug-2026,Hoarding,4000
+Nashik,Aug-2026,Education Fair,11500
+Nashik,Aug-2026,Print,6500
+Nagpur,May-2026,Google Ads,35900
+Nagpur,May-2026,Meta Ads,33800
+Nagpur,May-2026,Hoarding,23900
+Nagpur,May-2026,Education Fair,25400
+Nagpur,May-2026,Print,6100
+Nagpur,Jun-2026,Google Ads,20000
+Nagpur,Jun-2026,Meta Ads,29200
+Nagpur,Jun-2026,Hoarding,66900
+Nagpur,Jun-2026,Education Fair,7400
+Nagpur,Jun-2026,Print,6500
+Nagpur,Jul-2026,Google Ads,25400
+Nagpur,Jul-2026,Meta Ads,32200
+Nagpur,Jul-2026,Hoarding,17100
+Nagpur,Jul-2026,Education Fair,14400
+Nagpur,Jul-2026,Print,12300
+Nagpur,Aug-2026,Google Ads,18000
+Nagpur,Aug-2026,Meta Ads,32900
+Nagpur,Aug-2026,Hoarding,12600
+Nagpur,Aug-2026,Education Fair,16500
+Nagpur,Aug-2026,Print,14100
+Ahmedabad-Bopal,May-2026,Google Ads,19200
+Ahmedabad-Bopal,May-2026,Meta Ads,12900
+Ahmedabad-Bopal,May-2026,Hoarding,31700
+Ahmedabad-Bopal,May-2026,Education Fair,13600
+Ahmedabad-Bopal,May-2026,Print,1500
+Ahmedabad-Bopal,Jun-2026,Google Ads,16600
+Ahmedabad-Bopal,Jun-2026,Meta Ads,8000
+Ahmedabad-Bopal,Jun-2026,Hoarding,23900
+Ahmedabad-Bopal,Jun-2026,Education Fair,6200
+Ahmedabad-Bopal,Jun-2026,Print,200
+Ahmedabad-Bopal,Jul-2026,Google Ads,10200
+Ahmedabad-Bopal,Jul-2026,Meta Ads,9100
+Ahmedabad-Bopal,Jul-2026,Hoarding,7900
+Ahmedabad-Bopal,Jul-2026,Education Fair,5100
+Ahmedabad-Bopal,Jul-2026,Print,6600
+Ahmedabad-Bopal,Aug-2026,Google Ads,9500
+Ahmedabad-Bopal,Aug-2026,Meta Ads,14800
+Ahmedabad-Bopal,Aug-2026,Hoarding,17400
+Ahmedabad-Bopal,Aug-2026,Education Fair,6400
+Ahmedabad-Bopal,Aug-2026,Print,2600
+Surat,May-2026,Google Ads,28600
+Surat,May-2026,Meta Ads,30700
+Surat,May-2026,Hoarding,62800
+Surat,May-2026,Education Fair,19200
+Surat,May-2026,Print,12900
+Surat,Jun-2026,Google Ads,33500
+Surat,Jun-2026,Meta Ads,17700
+Surat,Jun-2026,Hoarding,1200
+Surat,Jun-2026,Education Fair,25600
+Surat,Jun-2026,Print,0
+Surat,Jul-2026,Google Ads,26400
+Surat,Jul-2026,Meta Ads,17000
+Surat,Jul-2026,Hoarding,12400
+Surat,Jul-2026,Education Fair,27100
+Surat,Jul-2026,Print,17800
+Surat,Aug-2026,Google Ads,23000
+Surat,Aug-2026,Meta Ads,18100
+Surat,Aug-2026,Hoarding,13000
+Surat,Aug-2026,Education Fair,300
+Surat,Aug-2026,Print,4600
+Vadodara,May-2026,Google Ads,6100
+Vadodara,May-2026,Meta Ads,4100
+Vadodara,May-2026,Hoarding,15500
+Vadodara,May-2026,Education Fair,500
+Vadodara,May-2026,Print,800
+Vadodara,Jun-2026,Google Ads,9100
+Vadodara,Jun-2026,Meta Ads,8300
+Vadodara,Jun-2026,Hoarding,20500
+Vadodara,Jun-2026,Education Fair,3300
+Vadodara,Jun-2026,Print,1600
+Vadodara,Jul-2026,Google Ads,6200
+Vadodara,Jul-2026,Meta Ads,5600
+Vadodara,Jul-2026,Hoarding,14400
+Vadodara,Jul-2026,Education Fair,2000
+Vadodara,Jul-2026,Print,4600
+Vadodara,Aug-2026,Google Ads,5600
+Vadodara,Aug-2026,Meta Ads,5700
+Vadodara,Aug-2026,Hoarding,3300
+Vadodara,Aug-2026,Education Fair,0
+Vadodara,Aug-2026,Print,2300
+Bengaluru-Whitefield,May-2026,Google Ads,15100
+Bengaluru-Whitefield,May-2026,Meta Ads,11900
+Bengaluru-Whitefield,May-2026,Hoarding,10900
+Bengaluru-Whitefield,May-2026,Education Fair,8100
+Bengaluru-Whitefield,May-2026,Print,9400
+Bengaluru-Whitefield,Jun-2026,Google Ads,10000
+Bengaluru-Whitefield,Jun-2026,Meta Ads,9600
+Bengaluru-Whitefield,Jun-2026,Hoarding,36700
+Bengaluru-Whitefield,Jun-2026,Education Fair,1200
+Bengaluru-Whitefield,Jun-2026,Print,4300
+Bengaluru-Whitefield,Jul-2026,Google Ads,8300
+Bengaluru-Whitefield,Jul-2026,Meta Ads,13800
+Bengaluru-Whitefield,Jul-2026,Hoarding,5000
+Bengaluru-Whitefield,Jul-2026,Education Fair,9400
+Bengaluru-Whitefield,Jul-2026,Print,5100
+Bengaluru-Whitefield,Aug-2026,Google Ads,15000
+Bengaluru-Whitefield,Aug-2026,Meta Ads,7300
+Bengaluru-Whitefield,Aug-2026,Hoarding,15600
+Bengaluru-Whitefield,Aug-2026,Education Fair,2100
+Bengaluru-Whitefield,Aug-2026,Print,9900
+Hubballi,May-2026,Google Ads,31100
+Hubballi,May-2026,Meta Ads,23800
+Hubballi,May-2026,Hoarding,40500
+Hubballi,May-2026,Education Fair,27900
+Hubballi,May-2026,Print,7100
+Hubballi,Jun-2026,Google Ads,37400
+Hubballi,Jun-2026,Meta Ads,30800
+Hubballi,Jun-2026,Hoarding,65700
+Hubballi,Jun-2026,Education Fair,6200
+Hubballi,Jun-2026,Print,4400
+Hubballi,Jul-2026,Google Ads,18300
+Hubballi,Jul-2026,Meta Ads,25600
+Hubballi,Jul-2026,Hoarding,18300
+Hubballi,Jul-2026,Education Fair,15300
+Hubballi,Jul-2026,Print,16600
+Hubballi,Aug-2026,Google Ads,20200
+Hubballi,Aug-2026,Meta Ads,31800
+Hubballi,Aug-2026,Hoarding,9100
+Hubballi,Aug-2026,Education Fair,17600
+Hubballi,Aug-2026,Print,10200
+Indore,May-2026,Google Ads,14500
+Indore,May-2026,Meta Ads,7700
+Indore,May-2026,Hoarding,7500
+Indore,May-2026,Education Fair,700
+Indore,May-2026,Print,4000
+Indore,Jun-2026,Google Ads,9600
+Indore,Jun-2026,Meta Ads,11700
+Indore,Jun-2026,Hoarding,38300
+Indore,Jun-2026,Education Fair,5700
+Indore,Jun-2026,Print,9100
+Indore,Jul-2026,Google Ads,19400
+Indore,Jul-2026,Meta Ads,13600
+Indore,Jul-2026,Hoarding,15600
+Indore,Jul-2026,Education Fair,9100
+Indore,Jul-2026,Print,9800
+Indore,Aug-2026,Google Ads,11100
+Indore,Aug-2026,Meta Ads,10400
+Indore,Aug-2026,Hoarding,22100
+Indore,Aug-2026,Education Fair,13100
+Indore,Aug-2026,Print,9900

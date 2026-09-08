@@ -1,0 +1,421 @@
+student_id,campus,grade,section,subject,assessment,max_marks,marks_obtained,attendance_pct,teacher
+STU-20260019,Thane,Grade 5,B,Mathematics,Unit Test 1,100,68,90.5,Sarah Chatterjee
+STU-20260110,Powai,Grade 8,B,Hindi,Term 1 Exam,100,15,59.6,Fatima Iyer
+STU-20260116,Bengaluru Whitefield,Grade 8,A,Social Studies,Unit Test 1,100,93,96.9,Ritu Gowda
+STU-20260068,Surat,Grade 6,B,Hindi,Unit Test 2,100,36,71.6,Ananya Patel
+STU-20260025,Indore,Grade 7,A,English,Term 1 Exam,100,91,94.9,Kavita Verma
+STU-20260070,Surat,Grade 3,A,Hindi,Unit Test 1,100,61,88.0,Vikram Deshpande
+STU-20260139,Pune-Wakad,Grade 10,A,Social Studies,Term 1 Exam,100,51,81.5,Ananya Sharma
+STU-20260114,Surat,Grade 4,C,Social Studies,Term 1 Exam,100,69,83.3,Vikram Deshpande
+STU-20260105,Kalyan,Grade 10,A,English,Term 1 Exam,100,73,86.8,Karthik Gowda
+STU-20260053,Ahmedabad Bopal,Grade 9,A,Social Studies,Unit Test 1,100,74,89.4,Nandini Sharma
+STU-20260097,andheri,Grade 8,A,English,Term 1 Exam,100,39,72.2,Nikhil Pillai
+STU-20260021,Pune Baner,Grade 4,C,Mathematics,Unit Test 1,100,44,77.6,Gauri Sharma
+STU-20260028,Kalyan,Grade 3,A,English,Unit Test 1,100,72,86.5,Siddharth Reddy
+STU-20260006,Hubballi,Grade 10,B,English,Unit Test 2,100,64,90.8,Nikhil Bose
+STU-20260034,Nashik,Grade 3,C,Hindi,Unit Test 1,100,72,96.1,Shalini Kulkarni
+STU-20260130,Thane,Grade 6,C,Social Studies,Term 1 Exam,100,77,96.3,Sneha Reddy
+STU-20260037,Nashik,Grade 6,A,Social Studies,Unit Test 1,100,96,94.6,Gauri Sinha
+STU-20260051,Indore,Grade 7,B,Hindi,Unit Test 1,100,24,58.5,Kavita Verma
+STU-20260079,Powai,Grade 8,C,English,Unit Test 2,100,85,94.4,Deepa Bhatt
+STU-20260124,Pune-Wakad,Grade 6,A,Mathematics,Unit Test 1,100,34,72.7,Sarah D'Souza
+STU-20260110,Bengaluru-Whitefield,Grade 3,C,Social Studies,Unit Test 1,100,42,75.1,Manish Gowda
+STU-20260014,Nagpur,Grade 9,C,Social Studies,Unit Test 1,100,38,74.5,Joseph Menon
+STU-20260075,Pune Wakad,Grade 3,A,Mathematics,Unit Test 1,100,23,70.0,Ananya Sharma
+STU-20260027,Pune-Baner,Grade 7,B,Social Studies,Unit Test 1,100,35,61.4,Ritu Joshi
+STU-20260123,Vadodara,Grade 10,C,Hindi,Unit Test 2,100,61,82.8,Sarah Rao
+STU-20260020,Pune-Baner,Grade 6,A,Hindi,Term 1 Exam,100,21,62.8,Ritu Joshi
+STU-20260105,Hubballi,Grade 6,B,Science,Term 1 Exam,100,54,86.9,Gauri Iyer
+STU-20260078,Pune - Baner,Grade 7,B,Mathematics,Term 1 Exam,100,12,59.6,Harish Bhatt
+STU-20260132,Bangalore-Whitefield,Grade 3,B,English,Unit Test 2,100,79,92.8,Ritu Gowda
+STU-20260106,Vadodara,Grade 3,A,Mathematics,Unit Test 1,100,40,61.5,Aisha Khan
+STU-20260136,Hubballi,Grade 5,B,Mathematics,Unit Test 2,100,62,82.6,Aisha Bose
+STU-20260070,Pune - Baner,Grade 9,B,Hindi,Unit Test 2,100,56,77.4,Rupal Chatterjee
+STU-20260083,Indore,Grade 5,C,Social Studies,Term 1 Exam,100,80,87.7,Kavita Verma
+STU-20260046,Indore,Grade 7,C,Social Studies,Unit Test 2,100,57,90.7,Kavita Verma
+STU-20260028,Andheri,Grade 7,B,English,Term 1 Exam,100,57,76.1,Pranav Kulkarni
+STU-20260118,Andheri ,Grade 8,C,Mathematics,Unit Test 1,100,72,89.6,Aarav Kulkarni
+STU-20260066,Indore,Grade 6,C,Hindi,Unit Test 1,100,61,81.0,Ananya Iyer
+STU-20260051,Pune-Wakad,Grade 6,C,English,Unit Test 2,100,99,96.8,Sarah D'Souza
+STU-20260042,Hubballi,Grade 10,A,Mathematics,Unit Test 2,100,63,81.0,Rohan D'Souza
+STU-20260077,Pune-Baner,Grade 8,C,Social Studies,Unit Test 2,100,51,65.5,Harish Bhatt
+STU-20260073,Bangalore-Whitefield,Grade 7,C,Hindi,Term 1 Exam,100,69,88.7,Ritu Gowda
+STU-20260104,Hubballi,Grade 8,A,Hindi,Term 1 Exam,100,51,71.0,Gauri Iyer
+STU-20260019,Surat,Grade 6,B,Social Studies,Unit Test 1,100,56,80.8,Nandini Deshpande
+STU-20260011,Nagpur,Grade 10,C,Mathematics,Term 1 Exam,100,56,74.4,Vaishali Khan
+STU-20260078,Andheri,Grade 9,A,Mathematics,Term 1 Exam,100,70,89.0,Pranav Kulkarni
+STU-20260050,Kalyan,Grade 9,B,English,Unit Test 2,100,42,71.8,Siddharth Reddy
+STU-20260062,Kalyan,Grade 3,C,English,Unit Test 1,100,84,89.9,Rupal Bhatt
+STU-20260019,Vadodara,Grade 9,C,Social Studies,Unit Test 1,100,67,85.7,Aisha Khan
+STU-20260004,Indore,Grade 10,A,Hindi,Unit Test 2,100,42,62.0,Harish Deshpande
+STU-20260104,Surat,Grade 5,A,Hindi,Unit Test 1,100,24,64.6,Ananya Patel
+STU-20260118,Thane,Grade 4,C,Social Studies,Unit Test 2,100,15,61.1,Kavita Menon
+STU-20260075,Bengaluru Whitefield,Grade 6,B,Hindi,Term 1 Exam,100,43,72.1,Shalini Kulkarni
+STU-20260012,Vadodara,Grade 6,C,Mathematics,Term 1 Exam,100,77,91.3,Aisha Khan
+STU-20260056,andheri,Grade 7,A,Hindi,Unit Test 1,100,75,96.3,Aarav Kulkarni
+STU-20260101,Pune Wakad,Grade 5,C,English,Term 1 Exam,100,74,97.1,Ananya Sharma
+STU-20260007,Bengaluru Whitefield,Grade 5,A,Social Studies,Unit Test 1,100,33,70.4,Shalini Kulkarni
+STU-20260131,Ahmedabad-Bopal,Grade 10,A,Social Studies,Unit Test 2,100,49,71.3,Nandini Sharma
+STU-20260010,Vadodara,Grade 8,A,Science,Term 1 Exam,100,36,65.1,Sarah Rao
+STU-20260036,Nagpur,Grade 4,B,Mathematics,Unit Test 1,100,68,87.8,Deepa Mehta
+STU-20260016,Powai,Grade 3,A,English,Term 1 Exam,100,49,83.0,Siddharth Khan
+STU-20260016,Vadodara,Grade 8,A,English,Unit Test 2,100,84,92.4,Tarun Sharma
+STU-20260014,Vadodara,Grade 7,A,Mathematics,Unit Test 1,100,82,96.5,Rupal Verma
+STU-20260093,Indore,Grade 5,C,Mathematics,Unit Test 1,100,40,66.8,Kavita Verma
+STU-20260027,Pune-Wakad,Grade 5,B,English,Unit Test 2,100,29,93.0,Sarah Mehta
+STU-20260101,Ahmedabad Bopal,Grade 6,B,Science,Term 1 Exam,100,24,61.4,Nandini Sharma
+STU-20260008,Ahmedabad-Bopal,Grade 8,A,Mathematics,Term 1 Exam,100,75,91.8,Nandini Iyer
+STU-20260047,Nashik,Grade 9,A,English,Term 1 Exam,100,61,85.5,Rohan Patel
+STU-20260016,Bangalore-Whitefield,Grade 9,B,Social Studies,Term 1 Exam,100,30,66.1,Ritu Gowda
+STU-20260138,Bangalore-Whitefield,Grade 9,C,Hindi,Term 1 Exam,100,51,79.9,Rohan Chatterjee
+STU-20260135,Indore,Grade 4,A,Science,Unit Test 2,100,8,62.7,Kavita Verma
+STU-20260027,Thane,Grade 8,A,Social Studies,Unit Test 2,100,28,62.2,Sarah Chatterjee
+STU-20260123,Powai,Grade 3,B,Social Studies,Unit Test 1,100,33,65.1,Deepa Bhatt
+STU-20260036,Thane,Grade 9,C,English,Term 1 Exam,100,4,65.2,Kavita Menon
+STU-20260100,Nashik,Grade 8,A,Social Studies,Unit Test 1,100,97,95.6,Gauri Sharma
+STU-20260036,Bangalore-Whitefield,Grade 10,B,Social Studies,Term 1 Exam,100,88,90.8,Rohan Chatterjee
+STU-20260127,Pune - Baner,Grade 7,C,Hindi,Unit Test 1,100,62,76.1,Gauri Sharma
+STU-20260079,Nagpur,Grade 3,B,Science,Unit Test 2,100,21,59.4,Deepa Mehta
+STU-20260083,Pune Wakad,Grade 3,A,Science,Unit Test 2,100,42,61.7,Ananya Sharma
+STU-20260057,Kalyan,Grade 8,B,Social Studies,Term 1 Exam,100,47,72.0,Neha Kaur
+STU-20260026,Nagpur,Grade 7,C,Social Studies,Term 1 Exam,100,60,76.4,Meera Nair
+STU-20260110,Indore,Grade 10,B,English,Unit Test 2,100,92,97.3,Ritu Nair
+STU-20260137,Powai,Grade 10,C,Hindi,Term 1 Exam,100,40,65.5,Deepa Bhatt
+STU-20260113,Nagpur,Grade 10,C,Mathematics,Unit Test 1,100,44,78.5,Deepa Mehta
+STU-20260098,Nashik,Grade 5,A,Hindi,Term 1 Exam,100,70,95.8,Shalini Kulkarni
+STU-20260119,Pune - Baner,Grade 4,A,Science,Unit Test 1,100,52,76.1,Ritu Joshi
+STU-20260011,Pune Baner,Grade 3,B,Mathematics,Term 1 Exam,100,85,98.7,Harish Bhatt
+STU-20260008,andheri,Grade 8,A,Hindi,Unit Test 2,100,34,70.8,Nikhil Pillai
+STU-20260101,Pune-Baner,Grade 4,B,Science,Unit Test 2,100,76,88.7,Rupal Chatterjee
+STU-20260138,Thane,Grade 9,A,Mathematics,Term 1 Exam,100,34,73.3,Reshma Iyer
+STU-20260021,Andheri ,Grade 6,A,English,Term 1 Exam,100,100,98.5,Neha Gowda
+STU-20260053,Pune Wakad,Grade 3,B,Mathematics,Term 1 Exam,100,43,69.6,Ananya Sharma
+STU-20260024,Andheri ,Grade 5,B,Social Studies,Unit Test 1,100,38,71.7,Pranav Kulkarni
+STU-20260014,Bengaluru-Whitefield,Grade 4,A,English,Unit Test 2,100,37,72.5,Rohan Chatterjee
+STU-20260050,Nashik,Grade 4,C,Social Studies,Term 1 Exam,100,74,90.7,Shalini Kulkarni
+STU-20260075,Powai,Grade 4,A,Social Studies,Unit Test 2,100,84,91.2,Siddharth Khan
+STU-20260136,Hubballi,Grade 7,A,Science,Unit Test 2,100,43,69.4,Gauri Iyer
+STU-20260021,Kalyan,Grade 3,A,Mathematics,Unit Test 1,100,52,80.2,Rupal Bhatt
+STU-20260078,Nashik,Grade 6,A,Hindi,Unit Test 2,100,28,70.4,Gauri Sharma
+STU-20260112,andheri,Grade 7,C,English,Unit Test 1,100,79,92.1,Pranav Kulkarni
+STU-20260056,Hubballi,Grade 3,A,Mathematics,Term 1 Exam,100,58,77.6,Aisha Bose
+STU-20260125,Indore,Grade 7,B,Hindi,Unit Test 1,100,30,68.5,Kavita Verma
+STU-20260107,Nashik,Grade 6,A,Social Studies,Term 1 Exam,100,48,70.2,Gauri Sinha
+STU-20260028,Kalyan,Grade 9,C,Social Studies,Term 1 Exam,100,25,67.9,Neha Kaur
+STU-20260120,Nagpur,Grade 3,C,English,Unit Test 2,100,73,78.2,Vaishali Khan
+STU-20260053,Surat,Grade 8,A,Mathematics,Unit Test 2,100,80,92.7,Vikram Deshpande
+STU-20260025,Pune - Wakad,Grade 10,B,Mathematics,Unit Test 2,100,53,88.0,Vaishali Bose
+STU-20260045,Andheri,Grade 9,A,Hindi,Unit Test 2,100,81,87.3,Aarav Kulkarni
+STU-20260092,Kalyan,Grade 7,B,Science,Unit Test 2,100,56,83.8,Neha Kaur
+STU-20260028,Thane,Grade 6,C,Social Studies,Term 1 Exam,100,25,64.6,Sneha Reddy
+STU-20260030,Kalyan,Grade 9,A,English,Unit Test 2,100,15,62.8,Karthik Gowda
+STU-20260119,Kalyan,Grade 7,A,English,Unit Test 2,100,40,67.5,Rupal Bhatt
+STU-20260005,Vadodara,Grade 7,A,Hindi,Unit Test 2,100,90,95.8,Rupal Verma
+STU-20260053,Nashik,Grade 3,B,English,Unit Test 2,100,19,64.5,Rohan Patel
+STU-20260090,Surat,Grade 10,B,Science,Term 1 Exam,100,92,59.1,Fatima Reddy
+STU-20260119,Powai,Grade 4,C,Hindi,Unit Test 1,100,14,64.0,Deepa Bhatt
+STU-20260038,Pune - Wakad,Grade 9,C,Science,Unit Test 2,100,49,78.9,Sarah Mehta
+STU-20260091,andheri,Grade 4,C,Social Studies,Unit Test 2,100,79,95.9,Neha Gowda
+STU-20260007,Powai,Grade 4,B,Science,Term 1 Exam,100,79,97.3,Fatima Iyer
+STU-20260064,PUNE BANER,Grade 7,B,Mathematics,Unit Test 1,100,46,81.7,Rupal Chatterjee
+STU-20260058,Hubballi,Grade 10,A,Science,Unit Test 1,100,33,63.8,Aisha Bose
+STU-20260102,Andheri ,Grade 7,C,Social Studies,Term 1 Exam,100,55,62.0,Pranav Kulkarni
+STU-20260103,Powai,Grade 8,A,English,Unit Test 1,100,58,71.8,Fatima Iyer
+STU-20260056,Indore,Grade 6,C,Social Studies,Term 1 Exam,100,36,68.9,Harish Deshpande
+STU-20260041,Andheri,Grade 8,B,Hindi,Unit Test 1,100,46,62.3,Nikhil Pillai
+STU-20260014,Pune - Wakad,Grade 8,C,Science,Term 1 Exam,100,51,72.5,Ananya Sharma
+STU-20260099,Nagpur,Grade 3,C,Science,Unit Test 1,100,74,85.9,Deepa Mehta
+STU-20260072,Nagpur,Grade 4,B,Science,Term 1 Exam,100,54,78.2,Deepa Mehta
+STU-20260008,andheri,Grade 8,B,Social Studies,Unit Test 1,100,20,58.5,Pranav Kulkarni
+STU-20260027,Andheri ,Grade 6,C,Mathematics,Unit Test 2,100,61,81.3,Nikhil Pillai
+STU-20260028,Pune Wakad,Grade 8,A,Mathematics,Unit Test 1,100,36,71.1,Vaishali Bose
+STU-20260070,Pune - Wakad,Grade 6,B,Mathematics,Unit Test 2,100,75,88.6,Vaishali Bose
+STU-20260140,Bengaluru-Whitefield,Grade 5,A,English,Unit Test 1,100,34,65.1,Shalini Kulkarni
+STU-20260128,Kalyan,Grade 6,A,English,Unit Test 2,100,71,86.2,Siddharth Reddy
+STU-20260069,Vadodara,Grade 4,A,Mathematics,Unit Test 1,100,76,84.6,Aisha Khan
+STU-20260003,Powai,Grade 10,C,Mathematics,Term 1 Exam,100,23,62.5,Fatima Iyer
+STU-20260100,Pune - Wakad,Grade 5,C,Science,Unit Test 1,100,54,69.5,Vaishali Bose
+STU-20260130,Bengaluru Whitefield,Grade 8,C,Mathematics,Term 1 Exam,100,27,62.0,Rohan Chatterjee
+STU-20260070,Nashik,Grade 6,A,Science,Term 1 Exam,100,60,82.8,Shalini Kulkarni
+STU-20260025,Surat,Grade 6,B,Social Studies,Unit Test 1,100,51,93.2,Nandini Deshpande
+STU-20260050,Indore,Grade 4,C,Hindi,Unit Test 2,100,43,68.7,Harish Deshpande
+STU-20260128,Nagpur,Grade 3,C,Science,Unit Test 2,100,74,91.8,Meera Nair
+STU-20260130,Thane,Grade 6,B,Hindi,Unit Test 2,100,39,71.6,Kavita Menon
+STU-20260022,Pune - Baner,Grade 6,A,Mathematics,Unit Test 2,100,49,77.3,Ritu Joshi
+STU-20260010,Andheri,Grade 4,B,Social Studies,Unit Test 1,100,48,63.6,Nikhil Pillai
+STU-20260125,Nagpur,Grade 5,C,Mathematics,Unit Test 2,100,35,60.2,Vaishali Khan
+STU-20260014,Powai,Grade 9,C,Mathematics,Term 1 Exam,100,35,69.7,Vaishali Joshi
+STU-20260115,Kalyan,Grade 6,B,Social Studies,Unit Test 1,100,72,85.9,Neha Kaur
+STU-20260075,Thane,Grade 4,B,Social Studies,Unit Test 1,100,38,68.6,Kavita Menon
+STU-20260010,Bangalore-Whitefield,Grade 9,C,Hindi,Term 1 Exam,100,52,86.6,Manish Gowda
+STU-20260008,Thane,Grade 7,A,Social Studies,Unit Test 1,100,34,78.7,Kavita Menon
+STU-20260018,Indore,Grade 3,B,Hindi,Unit Test 1,100,74,93.1,Kavita Verma
+STU-20260067,Andheri ,Grade 10,A,Hindi,Unit Test 2,100,59,68.1,Pranav Kulkarni
+STU-20260041,Thane,Grade 5,B,Social Studies,Unit Test 2,100,53,75.6,Sarah Chatterjee
+STU-20260109,Pune-Baner,Grade 4,A,Hindi,Term 1 Exam,100,12,64.1,Harish Bhatt
+STU-20260011,Pune-Wakad,Grade 7,B,Hindi,Unit Test 1,100,34,59.0,Vaishali Bose
+STU-20260126,Pune - Wakad,Grade 9,C,Science,Term 1 Exam,100,37,58.3,Ananya Sharma
+STU-20260010,Nashik,Grade 8,C,Social Studies,Unit Test 2,100,10,64.6,Rohan Patel
+STU-20260081,Indore,Grade 3,A,Social Studies,Unit Test 1,100,65,83.1,Kavita Verma
+STU-20260105,Nashik,Grade 10,C,Mathematics,Unit Test 1,100,26,61.2,Shalini Kulkarni
+STU-20260037,Andheri,Grade 10,C,Science,Unit Test 2,100,50,67.6,Aarav Kulkarni
+STU-20260103,Hubballi,Grade 5,A,Mathematics,Unit Test 2,100,38,67.7,Aisha Bose
+STU-20260051,Hubballi,Grade 9,B,Science,Unit Test 1,100,30,71.0,Rohan D'Souza
+STU-20260118,Indore,Grade 5,C,Social Studies,Unit Test 2,100,11,59.4,Kavita Verma
+STU-20260053,Kalyan,Grade 10,B,English,Term 1 Exam,100,19,60.2,Neha Kaur
+STU-20260066,A'bad-Bopal,Grade 7,A,Mathematics,Unit Test 1,100,48,74.8,Pranav Iyer
+STU-20260120,Bengaluru-Whitefield,Grade 7,B,Science,Unit Test 1,100,16,68.3,Ritu Gowda
+STU-20260098,Andheri ,Grade 4,A,Hindi,Unit Test 2,100,58,71.2,Neha Gowda
+STU-20260025,Vadodara,Grade 8,A,Science,Term 1 Exam,100,45,74.0,Rupal Verma
+STU-20260006,Hubballi,Grade 8,A,Mathematics,Unit Test 2,100,51,79.8,Aisha Bose
+STU-20260083,Hubballi,Grade 10,B,Social Studies,Unit Test 2,100,33,63.3,Rohan D'Souza
+STU-20260125,Kalyan,Grade 8,A,Hindi,Unit Test 1,100,26,64.9,Siddharth Reddy
+STU-20260023,Bengaluru-Whitefield,Grade 5,B,English,Unit Test 2,100,74,83.6,Manish Gowda
+STU-20260117,Bengaluru-Whitefield,Grade 6,C,Social Studies,Term 1 Exam,100,22,63.2,Manish Gowda
+STU-20260085,Pune Wakad,Grade 6,B,Science,Unit Test 2,100,55,78.5,Sarah D'Souza
+STU-20260041,Pune-Baner,Grade 4,B,English,Unit Test 2,100,65,83.4,Harish Bhatt
+STU-20260042,Nashik,Grade 9,A,Mathematics,Term 1 Exam,100,50,76.1,Rohan Patel
+STU-20260056,Indore,Grade 9,A,Mathematics,Unit Test 1,100,51,63.7,Kavita Verma
+STU-20260120,Nashik,Grade 10,A,Science,Unit Test 1,100,80,90.1,Shalini Kulkarni
+STU-20260048,Indore,Grade 6,A,Science,Unit Test 2,100,31,67.5,Harish Deshpande
+STU-20260045,Indore,Grade 5,A,English,Unit Test 1,100,41,67.3,Ritu Nair
+STU-20260033,Nagpur,Grade 6,B,Hindi,Unit Test 2,100,29,71.3,Vaishali Khan
+STU-20260113,Pune Baner,Grade 6,A,English,Term 1 Exam,100,60,81.7,Gauri Sharma
+STU-20260040,Surat,Grade 9,A,Hindi,Unit Test 1,100,91,81.0,Fatima Reddy
+STU-20260058,Surat,Grade 5,A,Hindi,Term 1 Exam,100,14,59.6,Vikram Deshpande
+STU-20260054,Surat,Grade 9,C,Mathematics,Term 1 Exam,100,94,66.1,Fatima Reddy
+STU-20260085,Ahmedabad Bopal,Grade 6,A,Hindi,Unit Test 2,100,53,84.1,Nandini Sharma
+STU-20260012,Hubballi,Grade 9,C,Social Studies,Unit Test 1,100,39,70.5,Gauri Iyer
+STU-20260029,A'bad-Bopal,Grade 7,C,Hindi,Term 1 Exam,100,51,80.3,Nandini Sharma
+STU-20260103,Thane,Grade 6,A,Social Studies,Unit Test 1,100,31,66.0,Reshma Iyer
+STU-20260122,Hubballi,Grade 9,C,English,Unit Test 1,100,65,87.3,Rohan D'Souza
+STU-20260006,Thane,Grade 9,A,Mathematics,Unit Test 1,100,37,80.8,Reshma Iyer
+STU-20260041,Surat,Grade 10,A,Hindi,Unit Test 2,100,93,83.6,Fatima Reddy
+STU-20260136,Kalyan,Grade 8,B,Hindi,Unit Test 1,100,42,86.3,Rupal Bhatt
+STU-20260015,Kalyan,Grade 7,A,Mathematics,Term 1 Exam,100,79,91.8,Siddharth Reddy
+STU-20260074,Indore,Grade 8,C,Science,Unit Test 1,100,71,98.8,Ritu Nair
+STU-20260081,Vadodara,Grade 3,B,Mathematics,Unit Test 1,100,72,86.7,Rupal Verma
+STU-20260036,Pune Wakad,Grade 9,C,English,Unit Test 2,100,85,94.4,Sarah Mehta
+STU-20260124,Vadodara,Grade 5,A,Social Studies,Unit Test 1,100,28,62.0,Sarah Rao
+STU-20260016,Thane,Grade 10,A,Science,Unit Test 2,100,29,71.2,Reshma Iyer
+STU-20260124,Nashik,Grade 9,A,Science,Unit Test 2,100,56,88.4,Rohan Patel
+STU-20260046,Indore,Grade 6,A,Hindi,Term 1 Exam,100,38,71.8,Kavita Verma
+STU-20260116,Thane,Grade 4,C,Science,Unit Test 2,100,48,82.0,Reshma Iyer
+STU-20260115,Ahmedabad-Bopal,Grade 3,A,Mathematics,Unit Test 1,100,66,80.6,Nandini Iyer
+STU-20260005,Hubballi,Grade 10,B,Social Studies,Term 1 Exam,100,88,92.3,Aisha Bose
+STU-20260138,Thane,Grade 9,A,Social Studies,Unit Test 1,100,16,63.0,Sneha Reddy
+STU-20260013,Thane,Grade 4,B,Hindi,Unit Test 1,100,30,83.7,Reshma Iyer
+STU-20260077,Kalyan,Grade 5,C,Hindi,Unit Test 2,100,27,65.4,Rupal Bhatt
+STU-20260137,Powai,Grade 8,A,English,Term 1 Exam,100,24,60.6,Vaishali Joshi
+STU-20260004,Thane,Grade 5,C,English,Term 1 Exam,100,66,90.2,Sneha Reddy
+STU-20260128,Thane,Grade 6,C,Science,Term 1 Exam,100,26,58.7,Kavita Menon
+STU-20260080,Bengaluru-Whitefield,Grade 3,B,Hindi,Unit Test 1,100,58,89.2,Shalini Kulkarni
+STU-20260097,Hubballi,Grade 5,A,Hindi,Unit Test 1,100,20,62.2,Aisha Bose
+STU-20260132,Pune Wakad,Grade 8,B,Social Studies,Term 1 Exam,100,48,78.9,Sarah D'Souza
+STU-20260118,Surat,Grade 3,C,Science,Term 1 Exam,100,88,66.8,Fatima Reddy
+STU-20260027,Bengaluru Whitefield,Grade 7,B,Mathematics,Term 1 Exam,100,92,92.5,Ritu Gowda
+STU-20260113,Surat,Grade 5,A,Social Studies,Term 1 Exam,100,41,62.4,Vikram Deshpande
+STU-20260131,Powai,Grade 7,B,Social Studies,Unit Test 2,100,12,61.4,Vaishali Joshi
+STU-20260035,Vadodara,Grade 8,A,Social Studies,Unit Test 1,100,37,70.3,Tarun Sharma
+STU-20260003,Pune-Wakad,Grade 3,A,Social Studies,Unit Test 1,100,25,66.4,Ananya Sharma
+STU-20260014,Ahmedabad-Bopal,Grade 7,A,Social Studies,Unit Test 2,100,69,80.1,Nandini Sharma
+STU-20260103,A'bad-Bopal,Grade 7,A,Science,Term 1 Exam,100,61,86.2,Nandini Iyer
+STU-20260131,Thane,Grade 10,C,Science,Unit Test 2,100,33,68.3,Sarah Chatterjee
+STU-20260096,Andheri,Grade 3,A,Mathematics,Unit Test 1,100,7,60.7,Neha Gowda
+STU-20260120,Ahmedabad Bopal,Grade 7,C,Social Studies,Unit Test 1,100,57,78.5,Nandini Sharma
+STU-20260033,Powai,Grade 7,C,Mathematics,Term 1 Exam,100,74,85.5,Fatima Iyer
+STU-20260042,A'bad-Bopal,Grade 8,C,Hindi,Unit Test 2,100,38,75.0,Nandini Iyer
+STU-20260059,Ahmedabad-Bopal,Grade 7,A,Science,Unit Test 2,100,51,85.9,Nandini Sharma
+STU-20260068,Pune Baner,Grade 8,B,Hindi,Term 1 Exam,100,61,86.9,Gauri Sharma
+STU-20260121,andheri,Grade 5,C,English,Term 1 Exam,100,80,98.6,Nikhil Pillai
+STU-20260111,Pune - Wakad,Grade 10,A,Mathematics,Term 1 Exam,100,70,96.0,Ananya Sharma
+STU-20260102,Thane,Grade 4,C,Science,Term 1 Exam,100,37,78.6,Sneha Reddy
+STU-20260013,A'bad-Bopal,Grade 3,B,Science,Unit Test 2,100,34,71.6,Sameer Bose
+STU-20260032,Nashik,Grade 7,C,Mathematics,Unit Test 2,100,57,75.2,Rohan Patel
+STU-20260022,Nashik,Grade 10,C,Science,Unit Test 2,100,54,80.0,Gauri Sharma
+STU-20260058,Ahmedabad-Bopal,Grade 4,B,English,Term 1 Exam,100,79,89.3,Nandini Sharma
+STU-20260109,Pune - Wakad,Grade 9,B,Science,Unit Test 2,100,36,69.5,Sarah D'Souza
+STU-20260060,Pune Baner,Grade 4,A,English,Unit Test 1,100,29,71.8,Ritu Joshi
+STU-20260130,Nashik,Grade 9,B,Social Studies,Unit Test 2,100,24,58.0,Rohan Patel
+STU-20260091,Nashik,Grade 10,A,Science,Term 1 Exam,100,24,61.7,Shalini Kulkarni
+STU-20260114,Ahmedabad Bopal,Grade 4,C,Social Studies,Unit Test 2,100,55,90.5,Nandini Iyer
+STU-20260077,Hubballi,Grade 6,C,Mathematics,Unit Test 2,100,37,68.6,Gauri Iyer
+STU-20260021,Andheri,Grade 3,C,Social Studies,Unit Test 1,100,28,71.6,Pranav Kulkarni
+STU-20260052,andheri,Grade 5,A,Mathematics,Unit Test 1,100,60,93.6,Nikhil Pillai
+STU-20260063,Pune - Wakad,Grade 6,A,Hindi,Unit Test 2,100,44,69.1,Vaishali Bose
+STU-20260022,PUNE BANER,Grade 4,A,Science,Unit Test 1,100,43,70.3,Ritu Joshi
+STU-20260097,Pune-Wakad,Grade 7,B,Hindi,Unit Test 2,100,90,94.8,Vaishali Bose
+STU-20260054,Nagpur,Grade 6,C,English,Unit Test 2,100,18,65.5,Meera Nair
+STU-20260057,Nashik,Grade 6,C,Science,Unit Test 1,100,42,66.8,Gauri Sharma
+STU-20260089,Powai,Grade 10,C,English,Unit Test 2,100,62,76.2,Deepa Bhatt
+STU-20260054,Powai,Grade 9,C,Hindi,Unit Test 1,100,19,63.8,Siddharth Khan
+STU-20260062,Vadodara,Grade 9,A,Hindi,Unit Test 2,100,67,74.1,Sarah Rao
+STU-20260078,Ahmedabad-Bopal,Grade 5,C,Science,Unit Test 1,100,69,80.6,Sameer Bose
+STU-20260029,Surat,Grade 8,C,Social Studies,Unit Test 2,100,87,93.8,Nandini Deshpande
+STU-20260056,Powai,Grade 8,A,Hindi,Unit Test 1,100,80,91.7,Siddharth Khan
+STU-20260036,Andheri,Grade 4,B,Science,Unit Test 2,100,50,76.2,Neha Gowda
+STU-20260050,Pune Wakad,Grade 9,B,Hindi,Unit Test 2,100,61,91.0,Vaishali Bose
+STU-20260017,Andheri,Grade 3,B,Social Studies,Unit Test 2,100,37,66.1,Pranav Kulkarni
+STU-20260019,Nagpur,Grade 10,B,English,Unit Test 1,100,31,64.4,Joseph Menon
+STU-20260108,Thane,Grade 10,C,Mathematics,Unit Test 1,100,34,62.1,Kavita Menon
+STU-20260061,Andheri,Grade 8,C,Hindi,Unit Test 1,100,72,72.1,Nikhil Pillai
+STU-20260119,Pune - Baner,Grade 9,B,Social Studies,Unit Test 2,100,53,84.4,Gauri Sharma
+STU-20260110,Surat,Grade 7,A,Hindi,Unit Test 2,100,65,89.6,Ananya Patel
+STU-20260050,Vadodara,Grade 5,C,Hindi,Unit Test 2,100,77,82.7,Rupal Verma
+STU-20260055,Vadodara,Grade 7,C,Mathematics,Unit Test 1,100,89,95.2,Rupal Verma
+STU-20260028,Pune - Wakad,Grade 4,C,Mathematics,Unit Test 1,100,61,78.8,Sarah Mehta
+STU-20260076,Thane,Grade 9,A,Hindi,Unit Test 1,100,12,59.1,Reshma Iyer
+STU-20260104,Hubballi,Grade 8,B,Science,Unit Test 2,100,11,66.1,Aisha Bose
+STU-20260101,Indore,Grade 3,C,English,Term 1 Exam,100,62,82.5,Ritu Nair
+STU-20260032,Vadodara,Grade 7,B,Social Studies,Unit Test 1,100,47,67.8,Rupal Verma
+STU-20260074,Indore,Grade 3,C,Mathematics,Term 1 Exam,100,23,61.9,Kavita Verma
+STU-20260099,Thane,Grade 3,A,Social Studies,Unit Test 2,100,81,98.9,Reshma Iyer
+STU-20260098,Hubballi,Grade 10,B,English,Unit Test 1,100,52,77.0,Gauri Iyer
+STU-20260081,Andheri ,Grade 8,A,Social Studies,Term 1 Exam,100,45,78.9,Pranav Kulkarni
+STU-20260067,PUNE BANER,Grade 5,C,English,Unit Test 2,100,32,69.6,Rupal Chatterjee
+STU-20260095,Nagpur,Grade 10,B,English,Term 1 Exam,100,82,88.6,Meera Nair
+STU-20260111,Nashik,Grade 8,A,Mathematics,Unit Test 2,100,65,92.1,Gauri Sinha
+STU-20260080,Surat,Grade 10,C,Social Studies,Unit Test 1,100,57,75.7,Nandini Deshpande
+STU-20260074,Surat,Grade 8,C,English,Unit Test 2,100,51,75.3,Vikram Deshpande
+STU-20260102,Surat,Grade 10,C,English,Unit Test 1,100,88,93.3,Fatima Reddy
+STU-20260097,Nashik,Grade 6,B,Social Studies,Unit Test 2,100,63,85.0,Rohan Patel
+STU-20260029,A'bad-Bopal,Grade 6,B,English,Unit Test 2,100,79,76.1,Pranav Iyer
+STU-20260028,Nagpur,Grade 4,A,Hindi,Term 1 Exam,100,49,84.8,Joseph Menon
+STU-20260022,Kalyan,Grade 8,C,Social Studies,Unit Test 2,100,6,67.3,Neha Kaur
+STU-20260017,Hubballi,Grade 3,B,Social Studies,Unit Test 2,100,74,84.9,Nikhil Bose
+STU-20260037,Pune-Wakad,Grade 8,A,Hindi,Term 1 Exam,100,66,86.1,Sarah D'Souza
+STU-20260001,Kalyan,Grade 9,A,Mathematics,Unit Test 2,100,42,88.0,Rupal Bhatt
+STU-20260098,Thane,Grade 9,C,Social Studies,Unit Test 2,100,50,77.2,Reshma Iyer
+STU-20260005,Andheri ,Grade 3,B,Mathematics,Term 1 Exam,100,72,88.8,Neha Gowda
+STU-20260050,Ahmedabad Bopal,Grade 9,A,Science,Unit Test 1,100,74,91.8,Nandini Iyer
+STU-20260085,Bengaluru Whitefield,Grade 5,C,Science,Unit Test 1,100,68,95.9,Rohan Chatterjee
+STU-20260112,Andheri ,Grade 5,A,Mathematics,Unit Test 2,100,27,58.9,Neha Gowda
+STU-20260031,Kalyan,Grade 9,B,Social Studies,Unit Test 2,100,48,70.4,Siddharth Reddy
+STU-20260038,Powai,Grade 8,A,Hindi,Unit Test 2,100,35,63.5,Deepa Bhatt
+STU-20260047,Nashik,Grade 7,C,Science,Unit Test 1,100,84,96.1,Gauri Sharma
+STU-20260125,Hubballi,Grade 10,B,Social Studies,Term 1 Exam,100,86,98.0,Gauri Iyer
+STU-20260140,Indore,Grade 9,C,Mathematics,Unit Test 1,100,45,83.7,Ritu Nair
+STU-20260117,Ahmedabad-Bopal,Grade 10,B,Hindi,Term 1 Exam,100,61,96.0,Nandini Sharma
+STU-20260073,PUNE BANER,Grade 6,B,Science,Unit Test 1,100,65,85.7,Harish Bhatt
+STU-20260024,Pune-Wakad,Grade 9,A,Science,Term 1 Exam,100,83,92.1,Sarah D'Souza
+STU-20260131,Powai,Grade 9,A,Mathematics,Unit Test 1,100,77,92.7,Vaishali Joshi
+STU-20260010,Nagpur,Grade 9,A,Hindi,Term 1 Exam,100,75,91.2,Vaishali Khan
+STU-20260056,Indore,Grade 10,A,English,Unit Test 1,100,73,87.6,Kavita Verma
+STU-20260096,Andheri,Grade 5,B,Mathematics,Unit Test 2,100,43,83.9,Pranav Kulkarni
+STU-20260063,Powai,Grade 4,C,Science,Unit Test 1,100,94,98.9,Fatima Iyer
+STU-20260088,Indore,Grade 4,C,English,Unit Test 1,100,46,59.6,Harish Deshpande
+STU-20260130,Surat,Grade 7,C,Mathematics,Unit Test 2,100,50,73.3,Nandini Deshpande
+STU-20260044,Kalyan,Grade 5,A,Mathematics,Unit Test 2,100,22,66.2,Neha Kaur
+STU-20260078,Nashik,Grade 9,A,English,Term 1 Exam,100,36,69.0,Shalini Kulkarni
+STU-20260057,Surat,Grade 3,C,Mathematics,Term 1 Exam,100,36,59.7,Ananya Patel
+STU-20260036,Bengaluru Whitefield,Grade 9,C,Social Studies,Term 1 Exam,100,87,85.8,Shalini Kulkarni
+STU-20260072,Ahmedabad Bopal,Grade 4,C,Social Studies,Term 1 Exam,100,47,79.6,Pranav Iyer
+STU-20260074,Nashik,Grade 3,C,Social Studies,Unit Test 2,100,67,86.7,Gauri Sinha
+STU-20260072,Indore,Grade 8,B,Mathematics,Unit Test 2,100,21,66.2,Harish Deshpande
+STU-20260042,Ahmedabad-Bopal,Grade 5,A,Science,Unit Test 1,100,78,98.2,Nandini Iyer
+STU-20260063,Nashik,Grade 10,A,Science,Unit Test 2,100,58,82.9,Gauri Sharma
+STU-20260119,Indore,Grade 3,C,English,Unit Test 2,100,69,92.0,Kavita Verma
+STU-20260035,Surat,Grade 9,C,Hindi,Unit Test 1,100,88,93.6,Fatima Reddy
+STU-20260014,Surat,Grade 5,B,Hindi,Unit Test 1,100,26,62.0,Ananya Patel
+STU-20260062,Nashik,Grade 10,B,Science,Unit Test 1,100,28,65.8,Gauri Sharma
+STU-20260111,Pune-Wakad,Grade 9,A,Science,Unit Test 1,100,74,86.5,Vaishali Bose
+STU-20260061,Hubballi,Grade 5,A,Mathematics,Unit Test 1,100,34,70.2,Rohan D'Souza
+STU-20260110,Nashik,Grade 4,B,Mathematics,Unit Test 2,100,47,74.1,Gauri Sinha
+STU-20260011,Powai,Grade 9,C,English,Unit Test 1,100,41,73.3,Vaishali Joshi
+STU-20260066,Nagpur,Grade 7,A,Social Studies,Unit Test 2,100,66,85.2,Meera Nair
+STU-20260140,Nashik,Grade 7,C,Hindi,Unit Test 1,100,54,78.1,Gauri Sharma
+STU-20260125,andheri,Grade 3,A,Mathematics,Unit Test 2,100,72,96.4,Nikhil Pillai
+STU-20260034,Powai,Grade 7,C,Mathematics,Term 1 Exam,100,87,95.5,Vaishali Joshi
+STU-20260084,A'bad-Bopal,Grade 7,B,Science,Unit Test 1,100,61,86.6,Nandini Sharma
+STU-20260048,Pune - Wakad,Grade 10,B,Hindi,Unit Test 1,100,56,81.5,Ananya Sharma
+STU-20260131,A'bad-Bopal,Grade 4,B,Social Studies,Unit Test 1,100,31,60.8,Sameer Bose
+STU-20260098,A'bad-Bopal,Grade 5,A,Social Studies,Unit Test 2,100,39,68.2,Nandini Sharma
+STU-20260034,Nashik,Grade 6,B,Hindi,Term 1 Exam,100,65,88.3,Gauri Sharma
+STU-20260091,andheri,Grade 9,B,Science,Term 1 Exam,100,86,88.5,Pranav Kulkarni
+STU-20260076,Pune Wakad,Grade 9,C,Mathematics,Unit Test 1,100,37,66.3,Ananya Sharma
+STU-20260080,Ahmedabad-Bopal,Grade 6,C,Mathematics,Unit Test 2,100,59,83.3,Nandini Iyer
+STU-20260044,Nagpur,Grade 10,C,Science,Unit Test 1,100,54,87.5,Joseph Menon
+STU-20260022,Surat,Grade 7,B,Mathematics,Term 1 Exam,100,14,62.7,Ananya Patel
+STU-20260082,Nashik,Grade 7,C,Hindi,Unit Test 1,100,39,75.9,Shalini Kulkarni
+STU-20260052,Thane,Grade 7,B,English,Unit Test 2,100,43,74.2,Reshma Iyer
+STU-20260056,Indore,Grade 8,A,Social Studies,Unit Test 1,100,69,96.6,Kavita Verma
+STU-20260103,Hubballi,Grade 8,B,Mathematics,Unit Test 1,100,29,75.2,Gauri Iyer
+STU-20260004,Surat,Grade 9,B,Science,Unit Test 2,100,32,72.9,Nandini Deshpande
+STU-20260004,Surat,Grade 9,C,English,Unit Test 2,100,91,63.5,Fatima Reddy
+STU-20260092,Surat,Grade 8,A,Hindi,Unit Test 1,100,69,85.9,Ananya Patel
+STU-20260099,Vadodara,Grade 5,B,Mathematics,Unit Test 2,100,31,63.9,Rupal Verma
+STU-20260016,Kalyan,Grade 10,A,Science,Unit Test 1,100,60,91.9,Neha Kaur
+STU-20260029,Thane,Grade 7,B,Social Studies,Unit Test 1,100,44,81.3,Reshma Iyer
+STU-20260086,Pune - Wakad,Grade 7,C,Social Studies,Unit Test 2,100,46,89.0,Sarah Mehta
+STU-20260113,Powai,Grade 8,C,English,Unit Test 1,100,59,61.2,Fatima Iyer
+STU-20260078,Hubballi,Grade 9,C,Hindi,Unit Test 1,100,30,64.2,Aisha Bose
+STU-20260054,A'bad-Bopal,Grade 7,B,English,Term 1 Exam,100,51,82.3,Pranav Iyer
+STU-20260119,Hubballi,Grade 8,B,Social Studies,Term 1 Exam,100,40,60.4,Aisha Bose
+STU-20260130,Powai,Grade 3,A,Hindi,Term 1 Exam,100,39,74.9,Fatima Iyer
+STU-20260125,Kalyan,Grade 10,C,Mathematics,Unit Test 2,100,23,64.5,Rupal Bhatt
+STU-20260121,Bangalore-Whitefield,Grade 7,A,Mathematics,Unit Test 2,100,44,77.3,Ritu Gowda
+STU-20260012,Nagpur,Grade 3,B,Social Studies,Term 1 Exam,100,100,98.9,Meera Nair
+STU-20260087,Vadodara,Grade 4,A,Science,Unit Test 1,100,31,60.2,Tarun Sharma
+STU-20260066,Powai,Grade 4,A,English,Unit Test 2,100,74,94.7,Siddharth Khan
+STU-20260038,Indore,Grade 6,C,Mathematics,Unit Test 2,100,75,98.5,Kavita Verma
+STU-20260102,Ahmedabad Bopal,Grade 8,B,Hindi,Term 1 Exam,100,71,83.6,Sameer Bose
+STU-20260107,Thane,Grade 6,C,English,Term 1 Exam,100,50,76.9,Sarah Chatterjee
+STU-20260014,Nashik,Grade 6,C,Social Studies,Term 1 Exam,100,68,87.2,Rohan Patel
+STU-20260023,Powai,Grade 7,C,Hindi,Unit Test 2,100,75,94.7,Vaishali Joshi
+STU-20260138,PUNE BANER,Grade 3,B,Mathematics,Term 1 Exam,100,65,71.2,Ritu Joshi
+STU-20260077,Nagpur,Grade 3,B,Mathematics,Unit Test 1,100,53,74.4,Joseph Menon
+STU-20260016,Vadodara,Grade 6,B,Social Studies,Term 1 Exam,100,27,73.5,Sarah Rao
+STU-20260088,Vadodara,Grade 10,A,English,Term 1 Exam,100,75,87.3,Rupal Verma
+STU-20260064,Bangalore-Whitefield,Grade 9,C,Mathematics,Unit Test 2,100,66,80.3,Manish Gowda
+STU-20260059,andheri,Grade 8,B,Mathematics,Unit Test 2,100,49,79.7,Pranav Kulkarni
+STU-20260093,Nagpur,Grade 10,C,Mathematics,Unit Test 2,100,13,60.3,Vaishali Khan
+STU-20260037,Thane,Grade 7,C,Mathematics,Unit Test 1,100,45,64.2,Sarah Chatterjee
+STU-20260014,Vadodara,Grade 3,A,Hindi,Unit Test 2,100,31,65.6,Aisha Khan
+STU-20260008,Pune Baner,Grade 5,B,Mathematics,Unit Test 2,100,60,76.0,Gauri Sharma
+STU-20260126,Pune - Wakad,Grade 8,C,Hindi,Term 1 Exam,100,14,65.8,Sarah D'Souza
+STU-20260049,Pune - Baner,Grade 4,A,English,Unit Test 1,100,39,70.8,Rupal Chatterjee
+STU-20260084,Nagpur,Grade 7,C,Science,Unit Test 2,100,50,81.7,Joseph Menon
+STU-20260065,Pune - Wakad,Grade 5,B,Science,Unit Test 1,100,44,64.4,Ananya Sharma
+STU-20260041,Vadodara,Grade 4,A,Social Studies,Unit Test 2,100,40,76.4,Rupal Verma
+STU-20260038,Bangalore-Whitefield,Grade 10,A,Social Studies,Term 1 Exam,100,79,82.0,Manish Gowda
+STU-20260061,Indore,Grade 10,B,English,Term 1 Exam,100,80,95.7,Ananya Iyer
+STU-20260106,Nagpur,Grade 8,A,Science,Unit Test 2,100,55,85.6,Deepa Mehta
+STU-20260052,Pune Wakad,Grade 3,A,Mathematics,Unit Test 2,100,50,67.9,Sarah D'Souza
+STU-20260053,Nagpur,Grade 9,B,English,Term 1 Exam,100,55,89.5,Meera Nair
+STU-20260052,Andheri,Grade 7,B,Social Studies,Term 1 Exam,100,26,67.8,Nikhil Pillai
+STU-20260037,Indore,Grade 4,A,English,Unit Test 1,100,69,84.4,Ananya Iyer
+STU-20260057,Pune - Baner,Grade 6,A,Hindi,Term 1 Exam,100,47,80.9,Gauri Sharma
+STU-20260100,Powai,Grade 4,A,Science,Term 1 Exam,100,72,94.5,Siddharth Khan
+STU-20260089,Kalyan,Grade 9,A,Science,Unit Test 2,100,55,74.4,Neha Kaur
+STU-20260101,Ahmedabad-Bopal,Grade 3,C,Mathematics,Unit Test 1,100,41,64.2,Pranav Iyer
+STU-20260122,Ahmedabad Bopal,Grade 3,A,Science,Unit Test 2,100,36,67.1,Nandini Sharma
+STU-20260078,Indore,Grade 8,C,Science,Unit Test 1,100,39,81.8,Kavita Verma
+STU-20260005,Andheri ,Grade 9,A,Science,Unit Test 1,100,26,60.7,Neha Gowda
+STU-20260133,Hubballi,Grade 4,C,Social Studies,Term 1 Exam,100,33,71.9,Aisha Bose
+STU-20260087,Surat,Grade 10,C,Hindi,Term 1 Exam,100,27,67.0,Vikram Deshpande
+STU-20260035,Surat,Grade 5,C,Social Studies,Term 1 Exam,100,70,84.0,Vikram Deshpande
+STU-20260073,Pune - Wakad,Grade 5,A,English,Term 1 Exam,100,53,73.5,Ananya Sharma
+STU-20260113,Vadodara,Grade 7,A,Hindi,Unit Test 1,100,68,90.8,Aisha Khan
+STU-20260121,Kalyan,Grade 4,C,English,Unit Test 1,100,52,94.3,Karthik Gowda
+STU-20260128,Pune Baner,Grade 10,A,Hindi,Term 1 Exam,100,45,68.9,Rupal Chatterjee
+STU-20260102,Pune - Baner,Grade 5,C,Social Studies,Term 1 Exam,100,35,61.6,Rupal Chatterjee
+STU-20260011,Thane,Grade 9,C,English,Term 1 Exam,100,37,73.3,Kavita Menon
+STU-20260025,Surat,Grade 6,B,Mathematics,Term 1 Exam,100,71,83.5,Ananya Patel
+STU-20260126,Surat,Grade 5,A,Science,Unit Test 2,100,95,86.1,Fatima Reddy
+STU-20260113,Hubballi,Grade 3,A,Social Studies,Unit Test 1,100,22,65.8,Gauri Iyer
+STU-20260118,Nagpur,Grade 6,A,English,Term 1 Exam,100,74,86.7,Vaishali Khan
+STU-20260123,Kalyan,Grade 7,A,Mathematics,Unit Test 2,100,41,62.2,Karthik Gowda
+STU-20260061,Thane,Grade 4,C,Social Studies,Term 1 Exam,100,57,85.8,Reshma Iyer
+STU-20260095,Nashik,Grade 8,A,Mathematics,Unit Test 2,100,76,98.6,Gauri Sharma
+STU-20260085,andheri,Grade 3,C,Mathematics,Term 1 Exam,100,46,70.9,Nikhil Pillai
+STU-20260056,PUNE BANER,Grade 9,C,English,Unit Test 2,100,33,79.1,Rupal Chatterjee
+STU-20260104,Ahmedabad Bopal,Grade 9,A,Hindi,Term 1 Exam,100,74,96.4,Pranav Iyer
+STU-20260054,Ahmedabad Bopal,Grade 5,C,Hindi,Term 1 Exam,100,55,80.4,Nandini Iyer
+STU-20260107,Powai,Grade 3,B,Mathematics,Unit Test 1,100,51,69.7,Siddharth Khan
+STU-20260128,Nashik,Grade 9,B,Mathematics,Term 1 Exam,100,35,66.6,Gauri Sinha
+STU-20260088,Thane,Grade 9,A,Hindi,Unit Test 2,100,80,91.9,Reshma Iyer
+STU-20260138,andheri,Grade 9,C,Mathematics,Unit Test 1,100,18,73.2,Nikhil Pillai
+STU-20260058,Indore,Grade 6,C,Hindi,Unit Test 1,100,77,88.6,Ritu Nair
+STU-20260008,Powai,Grade 9,C,Mathematics,Unit Test 1,100,44,71.2,Vaishali Joshi
+STU-20260123,Indore,Grade 10,C,Science,Unit Test 1,100,68,91.5,Harish Deshpande
+STU-20260038,Thane,Grade 6,B,Social Studies,Term 1 Exam,100,52,79.5,Sarah Chatterjee
