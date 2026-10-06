@@ -1,0 +1,143 @@
+student_id,student_name,campus,grade,section,term,invoice_date,due_date,amount_due_inr,amount_paid_inr,balance_inr,days_overdue,payment_mode,concession_type,parent_contact_preference,remarks
+STU-20260001,Rupal Gowda,Hubballi,Grade 2,A,Term 1,2026-06-01,2026-06-16,33500,0,33500,84,UPI,,WhatsApp,
+STU-20260002,Rohan Shetty,Andheri,Jr KG,A,Term 1,2026-05-05,2026-05-20,27300,27300,0,0,Payment Gateway,,WhatsApp,
+STU-20260003,Deepa Rao,Surat,Sr KG,A,Term 2,2026-10-02,2026-10-17,0,0,0,0,Cheque,RTE,SMS,Cheque bounced - charges pending
+STU-20260004,Aarav Gowda,Nagpur,Grade 3,C,Term 2,2026-10-03,2026-10-18,31410,20710,10700,0,Card,Sibling-10%,Call,Awaiting employer reimbursement
+STU-20260005,Ananya Kaur,Surat,Grade 5,A,Term 1,2026-06-08,2026-06-23,37700,0,37700,77,NEFT,,Email,Disputed transport component
+STU-20260006,Karthik Reddy,Indore,Grade 6,A,Term 1,2026-06-03,2026-06-18,35190,35190,0,0,,Sibling-10%,Email,Disputed transport component
+STU-20260007,Tarun Bose,PUNE BANER,Grade 10,C,Term 1,2026-06-08,2026-06-23,44700,44700,0,0,Cheque,,Email,Parent requested instalment
+STU-20260008,Lakshmi D'Souza,Nashik,Grade 10,B,Term 1,2026-05-15,2026-05-30,40230,0,40230,101,UPI,Sibling-10%,Email,
+STU-20260009,Reshma D'Souza,Pune-Baner,Grade 9,C,Term 1,2026-04-16,2026-05-01,43300,43300,0,0,NEFT,,Call,Parent requested instalment
+STU-20260010,Pranav Menon,Surat,Grade 8,B,Term 3,2026-12-07,2026-12-22,41900,0,41900,0,,,Email,
+STU-20260011,Vikram Bose,Surat,Grade 6,C,Term 1,2026-04-09,2026-04-24,0,0,0,0,UPI,RTE,Call,
+STU-20260012,Ritu Sinha,Hubballi,Grade 2,C,Term 2,2026-10-09,2026-10-24,"25,120",5360,19760,0,Cheque,Merit Scholarship-25%,SMS,Awaiting employer reimbursement
+STU-20260013,Ritu Bhatt,Nashik,Grade 9,B,Term 2,2026-09-21,2026-10-06,43300,43300,0,0,NEFT,,Call,Parent requested instalment
+STU-20260014,Imran D'Souza,Pune-Wakad,Grade 4,B,Term 1,2026-04-23,2026-05-08,36300,36300,0,0,Card,Management Concession,Email,
+STU-20260015,Harish Verma,Bangalore-Whitefield,Grade 9,C,Term 2,2026-09-26,2026-10-11,21650,0,21650,0,Card,Staff Ward-50%,SMS,Parent requested instalment
+STU-20260016,Harish Kulkarni,A'bad-Bopal,Jr KG,C,Term 3,2026-12-15,2026-12-30,24570,24570,0,0,UPI,Sibling-10%,WhatsApp,Parent requested instalment
+STU-20260017,Neha Khan,andheri,Grade 12,B,Term 1,2026-05-17,2026-06-01,35620,0,35620,99,NEFT,Merit Scholarship-25%,Call,Awaiting employer reimbursement
+STU-20260018,Rohan Bhatt,Nashik,Grade 11,A,Term 3,2026-12-17,2027-01-01,41490,41490,0,0,Card,Sibling-10%,WhatsApp,Disputed transport component
+STU-20260019,Imran Bose,Nashik,Grade 3,A,Term 1,2026-04-16,2026-05-01,0,0,0,0,Cash,RTE,SMS,
+STU-20260020,Rohan Chatterjee,Vadodara,Grade 6,A,Term 1,2026-04-19,2026-05-04,19550,0,19550,127,,Staff Ward-50%,WhatsApp,
+STU-20260021,Sameer Iyer,Indore,Nursery,C,Term 1,2026-04-10,2026-04-25,13000,4470,8530,136,Payment Gateway,Staff Ward-50%,Call,
+STU-20260022,Ritu Menon,Hubballi,Grade 2,B,Term 1,2026-05-20,2026-06-04,16750,0,16750,96,Card,Staff Ward-50%,SMS,Cheque bounced - charges pending
+STU-20260023,Manish Iyer,Bengaluru Whitefield,Grade 4,C,Term 3,2026-11-05,2026-11-20,36300,36300,0,0,NEFT,,SMS,
+STU-20260024,Faisal Reddy,Vadodara,Grade 9,A,Term 3,2026-11-11,2026-11-26,0,0,0,0,Payment Gateway,RTE,Email,
+STU-20260025,Vikram Kaur,Ahmedabad-Bopal,Grade 12,A,Term 2,2026-09-04,2026-09-19,47500,47500,0,0,NEFT,,WhatsApp,Parent requested instalment
+STU-20260026,Shalini Bose,Nashik,Sr KG,B,Term 3,2026-12-23,2027-01-07,28700,28700,0,0,UPI,Management Concession,SMS,Disputed transport component
+STU-20260027,Neha Sharma,Bengaluru-Whitefield,Sr KG,A,Term 1,2026-05-17,2026-06-01,14350,14350,0,0,,Staff Ward-50%,SMS,
+STU-20260028,Joseph Kulkarni,Pune-Wakad,Nursery,A,Term 1,2026-04-13,2026-04-28,26000,26000,0,0,,,Call,Awaiting employer reimbursement
+STU-20260029,Vikram Bhatt,Kalyan,Grade 1,B,Term 1,2026-04-24,2026-05-09,24080,24080,0,0,Card,Merit Scholarship-25%,Call,
+STU-20260030,Siddharth Iyer,Surat,Grade 4,A,Term 3,2026-11-04,2026-11-19,36300,36300,0,0,NEFT,,Call,Parent requested instalment
+STU-20260031,Trupti Pillai,Pune Wakad,Grade 9,B,Term 1,2026-04-08,2026-04-23,43300,11210,32090,138,Payment Gateway,,WhatsApp,Disputed transport component
+STU-20260032,Siddharth Bhatt,Ahmedabad-Bopal,Nursery,B,Term 1,2026-06-09,2026-06-24,26000,26000,0,0,NEFT,,Call,Disputed transport component
+STU-20260033,Aarav Sharma,Ahmedabad-Bopal,Grade 8,B,Term 1,2026-04-13,2026-04-28,0,0,0,0,Card,RTE,Call,Disputed transport component
+STU-20260034,Trupti Joshi,Thane,Grade 10,A,Term 1,2026-04-11,2026-04-26,22350,22350,0,0,Cash,Staff Ward-50%,WhatsApp,Cheque bounced - charges pending
+STU-20260035,Yash Patel,Kalyan,Grade 6,A,Term 3,2026-12-16,2026-12-31,39100,39100,0,0,,,Call,
+STU-20260036,Meera D'Souza,Hubballi,Grade 12,B,Term 1,2026-05-17,2026-06-01,"42,750",12430,30320,99,Cash,Sibling-10%,SMS,
+STU-20260037,Vikram Joshi,Vadodara,Grade 11,A,Term 1,2026-04-05,2026-04-20,46100,0,46100,141,Card,,WhatsApp,Cheque bounced - charges pending
+STU-20260038,Reshma Sinha,Kalyan,Grade 1,A,Term 2,2026-09-12,2026-09-27,32100,32100,0,0,Cheque,,Call,
+STU-20260039,Siddharth Deshpande,Vadodara,Grade 2,C,Term 3,2026-12-28,2027-01-12,25120,0,25120,0,Cash,Merit Scholarship-25%,WhatsApp,
+STU-20260040,Rahul Bhatt,andheri,Grade 9,A,Term 1,2026-03-26,2026-04-10,43300,43300,0,0,Card,,SMS,
+STU-20260041,Sameer Shetty,Pune Wakad,Grade 7,A,Term 3,2026-11-17,2026-12-02,36450,0,36450,0,Cash,Sibling-10%,WhatsApp,Disputed transport component
+STU-20260042,Vivaan Khan,Bengaluru Whitefield,Grade 11,B,Term 3,2026-11-18,2026-12-03,46100,46100,0,0,Card,,SMS,Awaiting employer reimbursement
+STU-20260043,Devendra Khan,Pune-Wakad,Grade 5,C,Term 1,2026-06-09,2026-06-24,37700,17800,19900,76,,,Email,Disputed transport component
+STU-20260044,Deepa Joshi,Nashik,Sr KG,C,Term 2,2026-08-09,2026-08-24,28700,28700,0,0,UPI,,WhatsApp,
+STU-20260045,Aisha Sharma,A'bad-Bopal,Grade 5,A,Term 1,2026-05-01,2026-05-16,37700,37700,0,0,Payment Gateway,Management Concession,Email,Awaiting employer reimbursement
+STU-20260046,Rupal Bhatt,Kalyan,Jr KG,B,Term 2,2026-09-25,2026-10-10,20480,6650,13830,0,,Merit Scholarship-25%,WhatsApp,Parent requested instalment
+STU-20260047,Shalini Kulkarni,Powai,Grade 11,A,Term 1,2026-05-01,2026-05-16,46100,46100,0,0,Payment Gateway,,SMS,Awaiting employer reimbursement
+STU-20260048,Tarun Kaur,A'bad-Bopal,Grade 9,A,Term 3,2026-11-29,2026-12-14,"32,480",0,32480,0,Cash,Merit Scholarship-25%,SMS,Cheque bounced - charges pending
+STU-20260049,Imran Rao,Indore,Grade 6,A,Term 3,2026-12-15,2026-12-30,0,0,0,0,Payment Gateway,RTE,Email,Cheque bounced - charges pending
+STU-20260050,Fatima Kaur,Surat,Grade 11,B,Term 1,2026-05-16,2026-05-31,34580,0,34580,100,UPI,Merit Scholarship-25%,WhatsApp,
+STU-20260051,Sameer Khan,Hubballi,Grade 9,B,Term 1,2026-04-16,2026-05-01,43300,43300,0,0,NEFT,,WhatsApp,
+STU-20260052,Rahul Bhatt,Andheri ,Grade 2,B,Term 3,2026-12-15,2026-12-30,33500,33500,0,0,Cheque,,Call,
+STU-20260053,Faisal Bhatt,Ahmedabad-Bopal,Grade 5,B,Term 2,2026-09-13,2026-09-28,33930,0,33930,0,NEFT,Sibling-10%,Email,
+STU-20260054,Faisal Bose,Nashik,Grade 9,B,Term 2,2026-08-21,2026-09-05,43300,43300,0,0,NEFT,,Call,Cheque bounced - charges pending
+STU-20260055,Shalini Gowda,Nagpur,Grade 7,C,Term 3,2026-12-09,2026-12-24,0,0,0,0,Card,RTE,Email,Disputed transport component
+STU-20260056,Ritu Khan,Ahmedabad Bopal,Grade 6,A,Term 1,2026-03-26,2026-04-10,39100,0,39100,151,NEFT,,WhatsApp,
+STU-20260057,Pranav Deshpande,Indore,Grade 8,C,Term 3,2027-01-01,2027-01-16,41900,13310,28590,0,NEFT,,Email,Disputed transport component
+STU-20260058,Tarun Kaur,Andheri ,Grade 4,B,Term 2,2026-08-02,2026-08-17,0,0,0,0,UPI,RTE,Call,
+STU-20260059,Joseph Patel,Pune - Wakad,Grade 6,C,Term 1,2026-06-03,2026-06-18,0,0,0,0,,RTE,SMS,
+STU-20260060,Manish Patel,Nashik,Nursery,A,Term 3,2026-11-08,2026-11-23,"26,000",26000,0,0,UPI,Management Concession,WhatsApp,
+STU-20260061,Devendra Sinha,Pune - Wakad,Grade 9,C,Term 1,2026-05-29,2026-06-13,38970,16990,21980,87,NEFT,Sibling-10%,WhatsApp,Awaiting employer reimbursement
+STU-20260062,Nikhil Deshpande,Thane,Grade 10,C,Term 2,2026-08-02,2026-08-17,40230,40230,0,0,Cash,Sibling-10%,Call,Parent requested instalment
+STU-20260063,Ritu D'Souza,Kalyan,Grade 6,A,Term 3,2026-10-29,2026-11-13,39100,39100,0,0,NEFT,,Email,Parent requested instalment
+STU-20260064,Rohan Khan,Indore,Grade 5,B,Term 1,2026-05-07,2026-05-22,18850,0,18850,109,Card,Staff Ward-50%,WhatsApp,Awaiting employer reimbursement
+STU-20260065,Aditya Shetty,Bengaluru Whitefield,Grade 5,A,Term 3,2026-11-09,2026-11-24,28280,0,28280,0,Cash,Merit Scholarship-25%,WhatsApp,Disputed transport component
+STU-20260066,Ananya Shetty,Surat,Grade 6,B,Term 1,2026-04-29,2026-05-14,39100,39100,0,0,Payment Gateway,,SMS,
+STU-20260067,Harish Bhatt,Vadodara,Nursery,C,Term 1,2026-05-08,2026-05-23,0,0,0,0,Payment Gateway,RTE,Call,
+STU-20260068,Kavita Joshi,Thane,Grade 8,A,Term 3,2027-01-09,2027-01-24,0,0,0,0,Payment Gateway,RTE,Call,Cheque bounced - charges pending
+STU-20260069,Siddharth Deshpande,Pune - Wakad,Grade 11,C,Term 2,2026-09-08,2026-09-23,34580,34580,0,0,NEFT,Merit Scholarship-25%,WhatsApp,Awaiting employer reimbursement
+STU-20260070,Rahul Mehta,Nagpur,Grade 5,C,Term 2,2026-09-30,2026-10-15,33930,0,33930,0,NEFT,Sibling-10%,WhatsApp,Disputed transport component
+STU-20260071,Imran Shetty,Hubballi,Sr KG,B,Term 1,2026-05-25,2026-06-09,0,0,0,0,NEFT,RTE,Call,
+STU-20260072,Faisal Pillai,Surat,Grade 4,C,Term 1,2026-03-27,2026-04-11,"36,300",36300,0,0,NEFT,,Email,Parent requested instalment
+STU-20260073,Aarav Gowda,Pune - Baner,Grade 12,A,Term 1,2026-06-03,2026-06-18,0,0,0,0,Card,RTE,Call,Awaiting employer reimbursement
+STU-20260074,Trupti Nair,Kalyan,Grade 7,A,Term 1,2026-04-12,2026-04-27,40500,40500,0,0,UPI,,Email,Cheque bounced - charges pending
+STU-20260075,Tarun Reddy,Indore,Grade 5,A,Term 2,2026-09-07,2026-09-22,37700,37700,0,0,UPI,,WhatsApp,
+STU-20260076,Sameer Bhatt,Ahmedabad Bopal,Grade 10,B,Term 1,2026-05-20,2026-06-04,40230,0,40230,96,,Sibling-10%,Email,
+STU-20260077,Rahul Kaur,Andheri,Grade 10,A,Term 1,2026-04-29,2026-05-14,22350,22350,0,0,,Staff Ward-50%,SMS,Cheque bounced - charges pending
+STU-20260078,Vivaan Reddy,Hubballi,Grade 1,A,Term 1,2026-05-26,2026-06-10,24080,0,24080,90,Cheque,Merit Scholarship-25%,SMS,Cheque bounced - charges pending
+STU-20260079,Fatima D'Souza,Ahmedabad Bopal,Jr KG,C,Term 1,2026-05-25,2026-06-09,0,0,0,0,,RTE,SMS,
+STU-20260080,Nikhil D'Souza,Nashik,Sr KG,C,Term 2,2026-10-03,2026-10-18,28700,28700,0,0,Card,,WhatsApp,
+STU-20260081,Siddharth Chatterjee,A'bad-Bopal,Grade 6,A,Term 3,2026-12-14,2026-12-29,39100,39100,0,0,Cash,,WhatsApp,
+STU-20260082,Neha Kulkarni,Powai,Nursery,A,Term 3,2026-10-31,2026-11-15,26000,26000,0,0,Cheque,Management Concession,Call,
+STU-20260083,Shalini Patel,Thane,Grade 6,A,Term 3,2026-11-12,2026-11-27,39100,39100,0,0,NEFT,,WhatsApp,
+STU-20260084,Gauri Nair,Pune - Wakad,Grade 3,B,Term 2,2026-08-01,2026-08-16,"34,900",34900,0,0,UPI,Management Concession,WhatsApp,
+STU-20260085,Rohan D'Souza,Surat,Grade 12,B,Term 3,2026-11-20,2026-12-05,35620,24820,10800,0,Cash,Merit Scholarship-25%,SMS,Cheque bounced - charges pending
+STU-20260086,Kavita Verma,Kalyan,Nursery,C,Term 2,2026-08-12,2026-08-27,19500,9280,10220,12,Cash,Merit Scholarship-25%,SMS,
+STU-20260087,Aarav Gowda,Surat,Grade 11,A,Term 1,2026-04-20,2026-05-05,46100,0,46100,126,UPI,,SMS,Awaiting employer reimbursement
+STU-20260088,Devendra Bose,Andheri ,Jr KG,A,Term 1,2026-05-07,2026-05-22,27300,27300,0,0,,,Call,Disputed transport component
+STU-20260089,Nikhil Joshi,Pune Baner,Grade 10,C,Term 1,2026-05-13,2026-05-28,33520,0,33520,103,Cash,Merit Scholarship-25%,WhatsApp,
+STU-20260090,Nikhil Kulkarni,Vadodara,Grade 1,A,Term 1,2026-05-13,2026-05-28,0,0,0,0,Payment Gateway,RTE,WhatsApp,Parent requested instalment
+STU-20260091,Deepa Mehta,Nagpur,Grade 6,B,Term 2,2026-08-13,2026-08-28,39100,19830,19270,11,,,Email,Cheque bounced - charges pending
+STU-20260092,Gauri Iyer,Nagpur,Grade 10,C,Term 3,2026-12-02,2026-12-17,22350,22350,0,0,,Staff Ward-50%,WhatsApp,Awaiting employer reimbursement
+STU-20260093,Sneha Shetty,Ahmedabad-Bopal,Grade 2,C,Term 3,2026-12-08,2026-12-23,0,0,0,0,Payment Gateway,RTE,WhatsApp,Awaiting employer reimbursement
+STU-20260094,Diya Pillai,Kalyan,Jr KG,B,Term 1,2026-05-06,2026-05-21,27300,0,27300,110,Payment Gateway,,SMS,Disputed transport component
+STU-20260095,Rahul Shetty,Pune - Baner,Grade 7,B,Term 1,2026-03-27,2026-04-11,40500,0,40500,150,Card,,Email,Disputed transport component
+STU-20260096,Devendra Kaur,Nagpur,Grade 2,C,Term 3,2026-11-13,2026-11-28,"33,500",15750,17750,0,Payment Gateway,,Email,
+STU-20260097,Priya Bhatt,Thane,Grade 3,B,Term 3,2026-12-01,2026-12-16,34900,34900,0,0,NEFT,,SMS,Disputed transport component
+STU-20260098,Priya Joshi,Pune-Wakad,Grade 10,B,Term 1,2026-06-09,2026-06-24,0,0,0,0,Card,RTE,SMS,Parent requested instalment
+STU-20260099,Gauri Sharma,Nagpur,Grade 3,A,Term 3,2026-11-01,2026-11-16,34900,34900,0,0,Card,,SMS,Awaiting employer reimbursement
+STU-20260100,Anil Deshpande,Thane,Grade 11,A,Term 2,2026-08-05,2026-08-20,0,0,0,0,Card,RTE,Email,Awaiting employer reimbursement
+STU-20260101,Faisal Kulkarni,Indore,Sr KG,C,Term 2,2026-09-11,2026-09-26,28700,28700,0,0,Cheque,,SMS,Parent requested instalment
+STU-20260102,Nikhil Patel,Pune-Baner,Jr KG,B,Term 1,2026-05-07,2026-05-22,24570,0,24570,109,Cash,Sibling-10%,Email,Disputed transport component
+STU-20260103,Nandini Joshi,Hubballi,Grade 10,B,Term 3,2026-12-21,2027-01-05,44700,44700,0,0,Card,,Call,
+STU-20260104,Ritu Sinha,Ahmedabad Bopal,Grade 9,C,Term 2,2026-08-28,2026-09-12,21650,0,21650,0,Cheque,Staff Ward-50%,Call,
+STU-20260105,Anil Reddy,Ahmedabad Bopal,Grade 5,B,Term 1,2026-04-15,2026-04-30,33930,33930,0,0,Card,Sibling-10%,WhatsApp,Awaiting employer reimbursement
+STU-20260106,Reshma Sinha,A'bad-Bopal,Grade 9,A,Term 1,2026-05-31,2026-06-15,43300,0,43300,85,,,Call,
+STU-20260107,Aarav Deshpande,Surat,Grade 10,C,Term 1,2026-05-05,2026-05-20,40230,0,40230,111,UPI,Sibling-10%,WhatsApp,Disputed transport component
+STU-20260108,Reshma Sinha,Nagpur,Sr KG,A,Term 1,2026-05-09,2026-05-24,"25,830",25830,0,0,Card,Sibling-10%,Call,
+STU-20260109,Sameer Chatterjee,Thane,Grade 3,B,Term 3,2026-11-11,2026-11-26,0,0,0,0,Card,RTE,Call,
+STU-20260110,Nikhil Shetty,Nagpur,Grade 9,B,Term 1,2026-04-21,2026-05-06,38970,38970,0,0,Cash,Sibling-10%,SMS,
+STU-20260111,Reshma Sharma,Hubballi,Grade 5,C,Term 3,2026-10-28,2026-11-12,0,0,0,0,,RTE,SMS,
+STU-20260112,Sameer Joshi,Ahmedabad-Bopal,Grade 6,A,Term 3,2026-11-18,2026-12-03,29320,29320,0,0,Payment Gateway,Merit Scholarship-25%,Call,
+STU-20260113,Faisal Bhatt,Nashik,Grade 8,C,Term 2,2026-09-02,2026-09-17,37710,37710,0,0,NEFT,Sibling-10%,Call,Cheque bounced - charges pending
+STU-20260114,Rahul Kaur,Pune - Wakad,Grade 9,C,Term 3,2026-11-14,2026-11-29,43300,43300,0,0,Cash,,Call,
+STU-20260115,Fatima Sharma,Thane,Sr KG,B,Term 2,2026-08-03,2026-08-18,28700,0,28700,21,Cheque,,Call,Cheque bounced - charges pending
+STU-20260116,Diya Sharma,Andheri,Grade 3,A,Term 2,2026-08-06,2026-08-21,26180,26180,0,0,NEFT,Merit Scholarship-25%,Call,Parent requested instalment
+STU-20260117,Rahul Deshpande,Nagpur,Jr KG,A,Term 1,2026-05-05,2026-05-20,27300,27300,0,0,Payment Gateway,,SMS,Cheque bounced - charges pending
+STU-20260118,Aditya Shetty,Powai,Grade 7,A,Term 3,2026-12-31,2027-01-15,40500,0,40500,0,Card,,SMS,Awaiting employer reimbursement
+STU-20260119,Sarah Verma,Kalyan,Grade 2,B,Term 2,2026-09-26,2026-10-11,0,0,0,0,NEFT,RTE,WhatsApp,
+STU-20260120,Aisha Menon,Nashik,Grade 5,B,Term 3,2026-12-11,2026-12-26,"37,700",24510,13190,0,Cheque,Management Concession,WhatsApp,
+STU-20260121,Meera Nair,Thane,Grade 4,A,Term 1,2026-05-02,2026-05-17,36300,36300,0,0,Card,,Call,
+STU-20260122,Ritu Patel,Indore,Grade 1,C,Term 1,2026-04-28,2026-05-13,32100,32100,0,0,,Management Concession,WhatsApp,
+STU-20260123,Deepa Menon,Pune Baner,Grade 9,B,Term 2,2026-09-17,2026-10-02,32480,32480,0,0,Card,Merit Scholarship-25%,WhatsApp,Cheque bounced - charges pending
+STU-20260124,Manish Chatterjee,Pune - Wakad,Grade 9,A,Term 3,2026-11-22,2026-12-07,43300,43300,0,0,,,Call,
+STU-20260125,Faisal D'Souza,Nagpur,Grade 1,A,Term 3,2026-11-03,2026-11-18,16050,0,16050,0,Cheque,Staff Ward-50%,SMS,Awaiting employer reimbursement
+STU-20260126,Aarav Mehta,Ahmedabad-Bopal,Grade 6,A,Term 2,2026-07-30,2026-08-14,39100,24230,14870,25,Payment Gateway,,Call,Cheque bounced - charges pending
+STU-20260127,Gauri Mehta,Pune - Wakad,Sr KG,A,Term 1,2026-04-02,2026-04-17,25830,25830,0,0,UPI,Sibling-10%,SMS,Disputed transport component
+STU-20260128,Vaishali Nair,Kalyan,Grade 5,B,Term 3,2026-11-23,2026-12-08,0,0,0,0,UPI,RTE,Call,Parent requested instalment
+STU-20260129,Yash Kaur,Pune-Baner,Jr KG,B,Term 3,2026-12-10,2026-12-25,0,0,0,0,NEFT,RTE,Call,
+STU-20260130,Imran Chatterjee,Hubballi,Grade 2,C,Term 1,2026-05-27,2026-06-11,30150,15180,14970,89,Cash,Sibling-10%,Call,
+STU-20260131,Nikhil Sharma,Andheri ,Grade 1,C,Term 3,2026-12-05,2026-12-20,32100,0,32100,0,Cheque,,Call,Cheque bounced - charges pending
+STU-20260132,Gauri Deshpande,Powai,Sr KG,A,Term 1,2026-06-02,2026-06-17,"28,700",28700,0,0,,,Call,
+STU-20260133,Devendra Patel,A'bad-Bopal,Grade 2,A,Term 2,2026-09-28,2026-10-13,25120,25120,0,0,Payment Gateway,Merit Scholarship-25%,Call,
+STU-20260134,Diya Verma,Thane,Grade 1,C,Term 1,2026-04-01,2026-04-16,16050,16050,0,0,NEFT,Staff Ward-50%,Email,
+STU-20260135,Trupti Reddy,PUNE BANER,Nursery,C,Term 1,2026-05-13,2026-05-28,26000,0,26000,103,UPI,,Call,
+STU-20260136,Nandini Pillai,Nashik,Grade 1,C,Term 1,2026-05-26,2026-06-10,16050,16050,0,0,Cheque,Staff Ward-50%,Call,
+STU-20260137,Yash Rao,Hubballi,Grade 1,B,Term 1,2026-06-02,2026-06-17,32100,32100,0,0,Payment Gateway,Management Concession,WhatsApp,
+STU-20260138,Siddharth Shetty,Nashik,Grade 11,C,Term 1,2026-05-03,2026-05-18,46100,46100,0,0,Cash,,SMS,
+STU-20260139,Lakshmi Kulkarni,PUNE BANER,Nursery,A,Term 1,2026-05-21,2026-06-05,19500,19500,0,0,UPI,Merit Scholarship-25%,SMS,Parent requested instalment
+STU-20260140,Faisal Kulkarni,Surat,Sr KG,C,Term 3,2026-11-23,2026-12-08,21520,21520,0,0,UPI,Merit Scholarship-25%,WhatsApp,Disputed transport component
+STU-20260004,Aarav Gowda,Nagpur,Grade 3,C,Term 2,2026-10-03,2026-10-18,31410,20710,10700,0,Card,Sibling-10%,Call,Awaiting employer reimbursement
+STU-20260011,Vikram Bose,Surat,Grade 6,C,Term 1,2026-04-09,2026-04-24,0,5000,-5000,0,UPI,RTE,Call,

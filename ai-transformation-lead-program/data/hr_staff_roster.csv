@@ -1,0 +1,92 @@
+emp_id,employee_name,campus,department,designation,grade,date_of_joining,employment_type,qualification,subject_taught,ctc_annual_inr,confirmation_status,last_appraisal_rating,official_email
+MGS-1001,Imran Chatterjee,Kalyan,Marketing,Marketing Executive,G7,2017-05-30,Permanent,"M.Sc., B.Ed",,456900,Confirmed,B,imran.chatterjee@meridianschools.example.in
+MGS-1002,Trupti Deshpande,Nashik,Academic,Vice Principal,G6,2018-03-11,Probation,"B.Ed, B.Sc.",Art,1333800,Pending,C,trupti.deshpande@meridianschools.example.in
+MGS-1003,Rupal Rao,Pune - Baner,Academic,Vice Principal,G3,2018-12-20,Permanent,B.Com,Physical Education,1231400,Confirmed,B,rupal.rao@meridianschools.example.in
+MGS-1004,Rupal Iyer,Ahmedabad Bopal,Support,Sports Coach,G5,2019-11-20,Permanent,D.El.Ed,,345300,Confirmed,B,rupal.iyer@meridianschools.example.in
+MGS-1005,Fatima Patel,Nagpur,Academic,Coordinator,G3,2023-01-16,Contract,MBA,Physical Education,1166000,N/A,,fatima.patel@meridianschools.example.in
+MGS-1006,Trupti Nair,Thane,Academic,Coordinator,G4,2018-04-25,Permanent,M.Ed,Chemistry,903700,Confirmed,C,trupti.nair@meridianschools.example.in
+MGS-1007,Tarun D'Souza,Thane,Academic,TGT,G7,2016-04-04,Contract,"M.Sc., B.Ed",Marathi,624300,N/A,B,tarun.dsouza@meridianschools.example.in
+MGS-1008,Trupti Mehta,Powai,Academic,PRT,G3,2017-07-13,Permanent,B.Com,Social Studies,517900,Confirmed,C,trupti.mehta@meridianschools.example.in
+MGS-1009,Joseph Khan,andheri,Academic,PGT,G7,2022-08-08,Contract,B.Com,Marathi,"7,61,300",N/A,C,joseph.khan@meridianschools.example.in
+MGS-1010,Rahul Bose,Kalyan,Academic,PRT,G6,2023-10-07,Probation,"B.Ed, B.Sc.",Commerce,521300,Pending,C,rahul.bose@meridianschools.example.in
+MGS-1011,Yash Kulkarni,Vadodara,Academic,Vice Principal,G3,17/06/2017,Permanent,B.P.Ed,English,1728700,Confirmed,B,yash.kulkarni@meridianschools.example.in
+MGS-1012,Anil Deshpande,Vadodara,Academic,PGT,G4,2016-03-18,Permanent,M.Com,English,829500,Confirmed,C,anil.deshpande@meridianschools.example.in
+MGS-1013,  Rohan D'Souza ,Surat,Marketing,Marketing Executive,G3,2020-06-09,Contract,"B.Ed, B.A.",,452500,N/A,B,rohan.dsouza@meridianschools.example.in
+MGS-1014,Rohan Khan,Pune - Wakad,Administration,Front Office,G3,2018-11-17,Contract,B.Com,,397500,N/A,B,rohan.khan@meridianschools.example.in
+MGS-1015,Fatima Verma,Nagpur,Purchase,Purchase Assistant,G6,2024-01-02,Permanent,M.Com,,339400,Confirmed,C,fatima.verma@meridianschools.example.in
+MGS-1016,Imran Pillai,Indore,Administration,Admin Executive,G4,2024-07-14,Permanent,"M.A., B.Ed",,442200,Confirmed,D,imran.pillai@meridianschools.example.in
+MGS-1017,Siddharth D'Souza,Kalyan,Administration,Admin Executive,G4,11-Apr-16,Permanent,B.P.Ed,,401100,Confirmed,A,siddharth.dsouza@meridianschools.example.in
+MGS-1018,Imran Patel,Kalyan,Academic,Vice Principal,G3,2016-07-11,Permanent,MBA,Science,"12,66,100",Confirmed,D,imran.patel@meridianschools.example.in
+MGS-1019,Harish Chatterjee,Surat,Academic,Coordinator,G6,2023-09-27,Permanent,"B.Ed, B.Sc.",Physics,1112700,Confirmed,C,harish.chatterjee@meridianschools.example.in
+MGS-1020,Shalini Verma,Nashik,Academic,PRT,G4,2021-03-05,Permanent,"M.Sc., B.Ed",,425800,Confirmed,C,shalini.verma@meridianschools.example.in
+MGS-1021,Anil Bhatt,Pune Wakad,Marketing,Admission Counsellor,G7,2018-10-19,Permanent,M.A.,,339800,Confirmed,D,anil.bhatt@meridianschools.example.in
+MGS-1022,Fatima Iyer,andheri,Purchase,Purchase Officer,G5,27/02/2019,Probation,MBA,,794300,Pending,A,fatima.iyer@meridianschools.example.in
+MGS-1023,Meera Rao,Andheri,Support,Sports Coach,G5,,Permanent,MBA,,465300,Confirmed,A,meera.rao@meridianschools.example.in
+MGS-1024,Meera Sharma,Nagpur,Academic,Vice Principal,G7,2016-10-11,Permanent,"B.Ed, B.Sc.",English,1731100,Confirmed,D,meera.sharma@meridianschools.example.in
+MGS-1025,Kavita D'Souza,Nashik,Academic,PGT,G5,2025-04-01,Contract,M.Com,Physical Education,1093900,N/A,C,kavita.dsouza@meridianschools.example.in
+MGS-1026,  Devendra Bhatt ,Vadodara,Academic,Vice Principal,G5,2024-11-20,Permanent,"M.A., B.Ed",,1581700,Confirmed,C,devendra.bhatt@meridianschools.example.in
+MGS-1027,Priya Joshi,Pune-Baner,Academic,PGT,G7,2017-10-09,Permanent,B.Com,Chemistry,"7,52,400",Confirmed,B,priya.joshi@meridianschools.example.in
+MGS-1028,Tarun Reddy,Thane,Academic,PGT,G7,2021-12-13,Visiting,M.Com,English,967100,N/A,A,tarun.reddy@meridianschools.example.in
+MGS-1029,Karthik Patel,Pune Wakad,Administration,Admin Manager,G4,2023-03-12,Permanent,M.Com,,,Confirmed,A,karthik.patel@meridianschools.example.in
+MGS-1030,Rohan Verma,Powai,Academic,PGT,G6,2019-01-23,Permanent,"M.A., B.Ed",Commerce,909400,Confirmed,B,rohan.verma@meridianschools.example.in
+MGS-1031,Vaishali Khan,Surat,Academic,Coordinator,G5,2023-10-13,Permanent,B.Com,Commerce,1115500,Confirmed,A,vaishali.khan@meridianschools.example.in
+MGS-1032,Ananya Chatterjee,A'bad-Bopal,Academic,Vice Principal,G7,2017-10-27,Permanent,MBA,Biology,1421300,Confirmed,A,ananya.chatterjee@meridianschools.example.in
+MGS-1033,Rahul Menon,Andheri,Academic,TGT,G6,07/06/2024,Probation,"B.Ed, B.Sc.",Mathematics,669700,Pending,,rahul.menon@meridianschools.example.in
+MGS-1034,Manish Bhatt,Bengaluru-Whitefield,Academic,Coordinator,G5,13-Jun-17,Permanent,B.P.Ed,Physical Education,1281700,Confirmed,C,manish.bhatt@meridianschools.example.in
+MGS-1035,Karthik Deshpande,Bangalore-Whitefield,Administration,Admin Manager,G6,2022-04-03,Permanent,MBA,,855200,Confirmed,A,karthik.deshpande@meridianschools.example.in
+MGS-1036,Ritu Rao,Powai,Purchase,Purchase Assistant,G4,2019-08-01,Permanent,"B.Ed, B.Sc.",,"3,44,800",Confirmed,A,ritu.rao@meridianschools.example.in
+MGS-1037,Trupti Kulkarni,Hubballi,Academic,Coordinator,G7,2019-06-19,Permanent,MBA,Chemistry,929500,Confirmed,,trupti.kulkarni@meridianschools.example.in
+MGS-1038,Sarah Rao,Powai,Academic,Coordinator,G7,2020-09-06,Probation,M.Com,English,1200000,Pending,A,sarah.rao@meridianschools.example.in
+MGS-1039,  Aarav Nair ,Andheri,Academic,PRT,G4,2024-02-17,Permanent,"B.Ed, B.Sc.",Biology,609500,Confirmed,B,aarav.nair@meridianschools.example.in
+MGS-1040,Faisal Joshi,andheri,Academic,Principal,G5,2019-10-31,Permanent,MBA,,2037100,Confirmed,B,faisal.joshi@meridianschools.example.in
+MGS-1041,Fatima Shetty,Kalyan,Support,Sports Coach,G7,2023-12-13,Permanent,M.Ed,,570500,Confirmed,C,fatima.shetty@meridianschools.example.in
+MGS-1042,Meera Bose,Surat,Accounts,Accountant,G5,2017-07-27,Permanent,D.El.Ed,,503300,Confirmed,C,meera.bose@meridianschools.example.in
+MGS-1043,Yash Menon,Pune - Wakad,Support,Librarian,G5,2022-06-06,Contract,"M.Sc., B.Ed",,489200,N/A,B,yash.menon@meridianschools.example.in
+MGS-1044,Fatima Verma,Surat,Academic,Coordinator,G5,07/01/2020,Probation,M.A.,Art,1205100,Pending,A,fatima.verma@meridianschools.example.in
+MGS-1045,Karthik Iyer,Hubballi,Marketing,Regional Marketing Manager,G3,2025-04-11,Permanent,B.P.Ed,,"13,03,500",Confirmed,A,karthik.iyer@meridianschools.example.in
+MGS-1046,Gauri Shetty,Nashik,Administration,Admin Manager,G6,,Permanent,B.P.Ed,,889000,Confirmed,C,gauri.shetty@meridianschools.example.in
+MGS-1047,Lakshmi Sinha,Ahmedabad Bopal,Academic,TGT,G7,2025-03-08,Probation,B.P.Ed,English,799200,Pending,,lakshmi.sinha@meridianschools.example.in
+MGS-1048,Manish Mehta,Pune Wakad,Academic,PGT,G6,2021-11-12,Visiting,"M.A., B.Ed",Mathematics,1147000,N/A,B,manish.mehta@meridianschools.example.in
+MGS-1049,Siddharth Rao,Bangalore-Whitefield,Academic,Coordinator,G5,2020-02-27,Permanent,M.Ed,Hindi,1001200,Confirmed,C,siddharth.rao@meridianschools.example.in
+MGS-1050,Sarah Patel,Pune - Wakad,Marketing,Regional Marketing Manager,G4,2019-12-02,Permanent,M.Ed,,1472500,Confirmed,,sarah.patel@meridianschools.example.in
+MGS-1051,Vaishali Mehta,Vadodara,Support,Housekeeping Supervisor,G5,26-May-21,Permanent,"B.Ed, B.Sc.",,266800,Confirmed,C,vaishali.mehta@meridianschools.example.in
+MGS-1052,  Sameer D'Souza ,Nashik,Marketing,Regional Marketing Manager,G4,2021-06-27,Contract,M.Ed,,1072100,N/A,C,sameer.dsouza@meridianschools.example.in
+MGS-1053,Gauri Mehta,Pune-Baner,Accounts,Accounts Manager,G5,2019-04-24,Permanent,"M.Sc., B.Ed",,974000,Confirmed,A,gauri.mehta@meridianschools.example.in
+MGS-1054,Karthik Iyer,Indore,Academic,PGT,G6,2020-03-07,Permanent,M.A.,Social Studies,"10,78,700",Confirmed,,karthik.iyer@meridianschools.example.in
+MGS-1055,Nikhil Gowda,Surat,Academic,PRT,G5,11/12/2020,Probation,B.Com,Economics,609100,Pending,B,nikhil.gowda@meridianschools.example.in
+MGS-1056,Nandini Bose,Vadodara,Academic,Vice Principal,G7,2022-10-30,Permanent,"B.Ed, B.Sc.",English,1401500,Confirmed,,nandini.bose@meridianschools.example.in
+MGS-1057,Anil Bhatt,Nagpur,Academic,PGT,G3,2016-10-24,Permanent,MBA,,769000,Confirmed,A,anil.bhatt@meridianschools.example.in
+MGS-1058,Lakshmi Rao,Nagpur,Academic,Coordinator,G4,2021-11-12,Permanent,M.Com,Hindi,,Confirmed,B,lakshmi.rao@meridianschools.example.in
+MGS-1059,Rahul Iyer,Hubballi,Administration,Admin Manager,G5,2020-06-21,Permanent,B.Com,,989300,Confirmed,B,rahul.iyer@meridianschools.example.in
+MGS-1060,Harish Mehta,Vadodara,Academic,Coordinator,G4,2018-11-16,Permanent,"B.Ed, B.Sc.",Hindi,1270800,Confirmed,D,harish.mehta@meridianschools.example.in
+MGS-1061,Harish Mehta,Bengaluru-Whitefield,Administration,Admin Manager,G6,2020-10-03,Visiting,B.P.Ed,,774700,N/A,B,harish.mehta@meridianschools.example.in
+MGS-1062,Aisha Reddy,Vadodara,Administration,Admin Manager,G5,2016-12-14,Permanent,"B.Ed, B.Sc.",,929200,Confirmed,B,aisha.reddy@meridianschools.example.in
+MGS-1063,Faisal Menon,Surat,Academic,Vice Principal,G6,2024-05-15,Permanent,M.A.,Science,"12,56,300",Confirmed,D,faisal.menon@meridianschools.example.in
+MGS-1064,Devendra Joshi,Nagpur,Administration,Admin Manager,G5,2019-11-19,Permanent,M.Ed,,683300,Confirmed,C,devendra.joshi@meridianschools.example.in
+MGS-1065,  Shalini Pillai ,Pune - Wakad,Accounts,Accounts Assistant,G7,2019-06-19,Probation,MBA,,318100,Pending,C,shalini.pillai@meridianschools.example.in
+MGS-1066,Manish Rao,Nagpur,Academic,PGT,G5,25/10/2021,Probation,B.P.Ed,Physical Education,869800,Pending,A,manish.rao@meridianschools.example.in
+MGS-1067,Sarah Nair,Vadodara,Academic,PGT,G6,2019-01-11,Permanent,"M.A., B.Ed",Chemistry,752400,Confirmed,D,sarah.nair@meridianschools.example.in
+MGS-1068,Aisha Pillai,Indore,Academic,Principal,G5,13-Dec-17,Permanent,M.Ed,Hindi,2170300,Confirmed,,aisha.pillai@meridianschools.example.in
+MGS-1069,Nikhil Rao,Pune-Baner,Academic,PGT,G5,,Permanent,B.Com,Social Studies,778600,Confirmed,A,nikhil.rao@meridianschools.example.in
+MGS-1070,Trupti D'Souza,A'bad-Bopal,Academic,Coordinator,G7,2022-07-18,Contract,B.Com,English,1251500,N/A,B,trupti.dsouza@meridianschools.example.in
+MGS-1071,Anil Joshi,Hubballi,Support,Librarian,G4,2018-11-10,Contract,"B.Ed, B.A.",,490100,N/A,,anil.joshi@meridianschools.example.in
+MGS-1072,Sneha Rao,Pune Baner,Support,Lab Assistant,G5,2017-09-05,Permanent,M.A.,,"2,97,900",Confirmed,B,sneha.rao@meridianschools.example.in
+MGS-1073,Rupal Bose,Pune - Baner,Accounts,Accountant,G7,2022-02-01,Permanent,"M.A., B.Ed",,673100,Confirmed,A,rupal.bose@meridianschools.example.in
+MGS-1074,Aarav Reddy,Bangalore-Whitefield,Support,Lab Assistant,G4,2021-11-05,Permanent,M.Ed,,301300,Confirmed,A,aarav.reddy@meridianschools.example.in
+MGS-1075,Sameer Gowda,Ahmedabad Bopal,Academic,TGT,G6,2020-05-17,Permanent,"B.Ed, B.A.",Chemistry,768700,Confirmed,C,sameer.gowda@meridianschools.example.in
+MGS-1076,Aisha Gowda,Pune-Wakad,Academic,Coordinator,G7,2025-07-05,Probation,D.El.Ed,Science,886100,Pending,B,aisha.gowda@meridianschools.example.in
+MGS-1077,Priya Gowda,andheri,Academic,Vice Principal,G7,19/09/2018,Permanent,M.A.,Social Studies,1302300,Confirmed,B,priya.gowda@meridianschools.example.in
+MGS-1078,  Siddharth Rao ,Vadodara,Academic,Vice Principal,G7,2018-06-02,Permanent,M.Com,Computer Science,1648000,Confirmed,B,siddharth.rao@meridianschools.example.in
+MGS-1079,Harish Nair,Ahmedabad-Bopal,Academic,TGT,G3,2017-10-25,Permanent,M.A.,Commerce,660200,Confirmed,B,harish.nair@meridianschools.example.in
+MGS-1080,Trupti Bhatt,Bengaluru Whitefield,Purchase,Purchase Officer,G4,2018-06-29,Probation,M.Com,,641700,Pending,C,trupti.bhatt@meridianschools.example.in
+MGS-1081,Sameer Khan,Kalyan,Marketing,Regional Marketing Manager,G6,2023-10-08,Probation,"B.Ed, B.Sc.",,"10,17,300",Pending,B,sameer.khan@meridianschools.example.in
+MGS-1082,Faisal Mehta,Surat,Academic,PRT,G7,2018-01-17,Permanent,"B.Ed, B.A.",Commerce,572000,Confirmed,B,faisal.mehta@meridianschools.example.in
+MGS-1083,Rohan Sharma,andheri,Academic,PRT,G6,2019-04-02,Contract,"M.Sc., B.Ed",Commerce,530300,N/A,A,rohan.sharma@meridianschools.example.in
+MGS-1084,Tarun Mehta,Powai,Academic,PRT,G5,2024-02-27,Probation,"B.Ed, B.A.",Biology,528300,Pending,D,tarun.mehta@meridianschools.example.in
+MGS-1085,Nandini Mehta,Hubballi,Marketing,Marketing Executive,G4,06-Dec-18,Contract,"M.Sc., B.Ed",,426300,N/A,,nandini.mehta@meridianschools.example.in
+MGS-1086,Devendra Pillai,Thane,Academic,PGT,G4,2016-02-04,Permanent,B.P.Ed,Social Studies,916600,Confirmed,C,devendra.pillai@meridianschools.example.in
+MGS-1087,Diya D'Souza,Thane,Administration,Admin Executive,G7,2019-09-14,Permanent,"M.Sc., B.Ed",,,Confirmed,C,diya.dsouza@meridianschools.example.in
+MGS-1088,Priya Bose,Bengaluru Whitefield,Academic,PGT,G6,23/02/2021,Permanent,M.A.,Physics,1081300,Confirmed,C,priya.bose@meridianschools.example.in
+MGS-1089,Shalini Pillai,Powai,Marketing,Marketing Executive,G7,2024-11-25,Probation,"B.Ed, B.Sc.",,545400,Pending,C,shalini.pillai@meridianschools.example.in
+MGS-1090,Ananya Verma,Ahmedabad Bopal,Administration,Front Office,G4,2023-11-16,Permanent,B.P.Ed,,"3,42,200",Confirmed,C,ananya.verma@meridianschools.example.in
+MGS-1207,Trupti Mehta,Andheri,Academic,PRT,G3,2017-07-13,Permanent,B.Com,Social Studies,517900,Confirmed,C,trupti.mehta@meridianschools.example.in

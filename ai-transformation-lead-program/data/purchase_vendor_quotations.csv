@@ -1,0 +1,47 @@
+quotation_id,vendor_name,quotation_date,item_code,item_description,unit,quantity_quoted,unit_rate_inr,gst_pct,rate_basis,delivery_days,warranty_months,payment_terms,vendor_location
+Q-2026-101,Sahyadri Lab Systems Pvt Ltd,2026-08-26,LAB-DSK,"Science laboratory work table, 6ft, acid-resistant top",No,12,18490,12,Exclusive of GST,21,24,"50% advance, 50% on delivery",Mumbai
+Q-2026-101,Sahyadri Lab Systems Pvt Ltd,2026-08-18,LAB-STL,"Laboratory stool, adjustable height, SS frame",No,72,1430,12,Exclusive of GST,21,24,"50% advance, 50% on delivery",Ahmedabad
+Q-2026-101,Sahyadri Lab Systems Pvt Ltd,2026-08-28,LAB-FUM,"Fume hood, benchtop, 3ft with exhaust",No,2,62820,12,Exclusive of GST,21,24,"50% advance, 50% on delivery",Pune
+Q-2026-101,Sahyadri Lab Systems Pvt Ltd,2026-08-18,LAB-MIC,"Compound microscope, 1000x, LED, binocular",No,20,10180,18,Exclusive of GST,21,24,"50% advance, 50% on delivery",Mumbai
+Q-2026-101,Sahyadri Lab Systems Pvt Ltd,2026-08-28,LAB-GLW,Borosilicate glassware assorted set (48 pcs),Set,8,7550,12,Exclusive of GST,21,24,"50% advance, 50% on delivery",Mumbai
+Q-2026-101,Sahyadri Lab Systems Pvt Ltd,2026-08-25,CLS-BEN,"Classroom desk-bench unit, 2-seater, powder coated",No,120,4760,12,Exclusive of GST,21,24,"50% advance, 50% on delivery",Ahmedabad
+Q-2026-101,Sahyadri Lab Systems Pvt Ltd,2026-08-21,CLS-BRD,"Ceramic whiteboard 8ft x 4ft, magnetic",No,24,6460,12,Exclusive of GST,21,24,"50% advance, 50% on delivery",Bengaluru
+Q-2026-101,Sahyadri Lab Systems Pvt Ltd,2026-08-28,CLS-CHR,"Teacher chair, mid-back, revolving",No,24,4230,12,Exclusive of GST,21,24,"50% advance, 50% on delivery",Bengaluru
+Q-2026-101,Sahyadri Lab Systems Pvt Ltd,2026-08-23,LIB-RCK,"Library rack, double-sided, 7 shelf, MS",No,16,11960,12,Exclusive of GST,21,24,"50% advance, 50% on delivery",Bengaluru
+Q-2026-101,Sahyadri Lab Systems Pvt Ltd,2026-08-23,IT-PROJ,"Interactive flat panel display 75 inch, Android 13",No,10,89220,18,Exclusive of GST,21,24,"50% advance, 50% on delivery",Bengaluru
+Q-2026-101,Sahyadri Lab Systems Pvt Ltd,2026-08-26,IT-UPS,Online UPS 3kVA with 30 min backup,No,4,41700,18,Exclusive of GST,21,24,"50% advance, 50% on delivery",Ahmedabad
+Q-2026-101,Sahyadri Lab Systems Pvt Ltd,2026-08-28,SFT-EXT,ABC fire extinguisher 6kg with wall bracket,No,30,2440,12,Exclusive of GST,21,24,"50% advance, 50% on delivery",Pune
+Q-2026-102,Nirmal Edu-Infra LLP,2026-08-24,LAB-DSK,"Science laboratory work table, 6ft, acid-resistant top",No,12,18780,12,Inclusive of GST,35,12,"30% advance, 60% on delivery, 10% after 60 days",Bengaluru
+Q-2026-102,Nirmal Edu-Infra LLP,2026-08-22,LAB-STL,"Laboratory stool, adjustable height, SS frame",No,72,1500,12,Inclusive of GST,35,12,"30% advance, 60% on delivery, 10% after 60 days",Mumbai
+Q-2026-102,Nirmal Edu-Infra LLP,2026-08-26,LAB-FUM,"Fume hood, benchtop, 3ft with exhaust",No,2,65260,12,Inclusive of GST,35,12,"30% advance, 60% on delivery, 10% after 60 days",Pune
+Q-2026-102,Nirmal Edu-Infra LLP,2026-08-28,LAB-MIC,"Compound microscope, 1000x, LED, binocular",No,20,10290,18,Inclusive of GST,35,12,"30% advance, 60% on delivery, 10% after 60 days",Mumbai
+Q-2026-102,Nirmal Edu-Infra LLP,2026-08-24,LAB-GLW,Borosilicate glassware assorted set (48 pcs),Set,8,7380,12,Inclusive of GST,35,12,"30% advance, 60% on delivery, 10% after 60 days",Pune
+Q-2026-102,Nirmal Edu-Infra LLP,2026-08-27,CLS-BEN,"Classroom desk-bench unit, 2-seater, powder coated",No,120,4960,12,Inclusive of GST,35,12,"30% advance, 60% on delivery, 10% after 60 days",Pune
+Q-2026-102,Nirmal Edu-Infra LLP,2026-08-24,CLS-BRD,"Ceramic whiteboard 8ft x 4ft, magnetic",No,24,6430,12,Inclusive of GST,35,12,"30% advance, 60% on delivery, 10% after 60 days",Mumbai
+Q-2026-102,Nirmal Edu-Infra LLP,2026-08-20,CLS-CHR,"Teacher chair, mid-back, revolving",No,24,4550,12,Inclusive of GST,35,12,"30% advance, 60% on delivery, 10% after 60 days",Mumbai
+Q-2026-102,Nirmal Edu-Infra LLP,2026-08-25,LIB-RCK,"Library rack, double-sided, 7 shelf, MS",No,16,11970,12,Inclusive of GST,35,12,"30% advance, 60% on delivery, 10% after 60 days",Pune
+Q-2026-102,Nirmal Edu-Infra LLP,2026-08-23,IT-PROJ,"Interactive Flat Panel 75"" (Android)",No,10,101500,18,Inclusive of GST,35,12,"30% advance, 60% on delivery, 10% after 60 days",Ahmedabad
+Q-2026-102,Nirmal Edu-Infra LLP,2026-08-25,IT-UPS,Online UPS 3kVA with 30 min backup,No,4,43260,18,Inclusive of GST,35,12,"30% advance, 60% on delivery, 10% after 60 days",Ahmedabad
+Q-2026-102,Nirmal Edu-Infra LLP,2026-08-18,SFT-EXT,ABC fire extinguisher 6kg with wall bracket,No,30,2510,12,Inclusive of GST,35,12,"30% advance, 60% on delivery, 10% after 60 days",Pune
+Q-2026-103,Crescent Scientific & Furniture Co.,2026-08-22,LAB-DSK,Lab table (6 feet) with chemical resistant top,No,12,19090,12,Exclusive of GST,14,36,100% on delivery,Mumbai
+Q-2026-103,Crescent Scientific & Furniture Co.,2026-08-18,LAB-STL,"Laboratory stool, adjustable height, SS frame",No,72,1630,12,Exclusive of GST,14,36,100% on delivery,Bengaluru
+Q-2026-103,Crescent Scientific & Furniture Co.,2026-08-23,LAB-FUM,"Fume hood, benchtop, 3ft with exhaust",No,2,63690,12,Exclusive of GST,14,36,100% on delivery,Ahmedabad
+Q-2026-103,Crescent Scientific & Furniture Co.,2026-08-26,LAB-MIC,"Compound microscope, 1000x, LED, binocular",No,20,10840,18,Exclusive of GST,14,36,100% on delivery,Mumbai
+Q-2026-103,Crescent Scientific & Furniture Co.,2026-08-25,LAB-GLW,Borosilicate glassware assorted set (48 pcs),Set,8,8260,12,Exclusive of GST,14,36,100% on delivery,Bengaluru
+Q-2026-103,Crescent Scientific & Furniture Co.,2026-08-23,CLS-BEN,"Desk cum bench, two seater, MS powder coated",No,100,5250,12,Exclusive of GST,14,36,100% on delivery,Ahmedabad
+Q-2026-103,Crescent Scientific & Furniture Co.,2026-08-22,CLS-BRD,"Ceramic whiteboard 8ft x 4ft, magnetic",No,24,6760,12,Exclusive of GST,14,36,100% on delivery,Bengaluru
+Q-2026-103,Crescent Scientific & Furniture Co.,2026-08-22,CLS-CHR,"Teacher chair, mid-back, revolving",No,24,4700,12,Exclusive of GST,14,36,100% on delivery,Pune
+Q-2026-103,Crescent Scientific & Furniture Co.,2026-08-27,LIB-RCK,"Library rack, double-sided, 7 shelf, MS",No,16,12970,12,Exclusive of GST,14,36,100% on delivery,Ahmedabad
+Q-2026-103,Crescent Scientific & Furniture Co.,2026-08-25,IT-PROJ,"Interactive flat panel display 75 inch, Android 13",No,10,99460,18,Exclusive of GST,14,36,100% on delivery,Bengaluru
+Q-2026-103,Crescent Scientific & Furniture Co.,2026-08-28,IT-UPS,Online UPS 3kVA with 30 min backup,No,4,42520,18,Exclusive of GST,14,36,100% on delivery,Bengaluru
+Q-2026-103,Crescent Scientific & Furniture Co.,2026-08-19,SFT-EXT,ABC fire extinguisher 6kg with wall bracket,No,30,2530,12,Exclusive of GST,14,36,100% on delivery,Bengaluru
+Q-2026-104,Bluewave Edutech Supplies,2026-08-24,LAB-DSK,Science Lab Work Bench 6' acid proof,No,12,15530,12,Exclusive of GST,45,12,"40% advance, balance in 3 instalments",Mumbai
+Q-2026-104,Bluewave Edutech Supplies,2026-08-20,LAB-STL,"Laboratory stool, adjustable height, SS frame",No,72,1270,12,Exclusive of GST,45,12,"40% advance, balance in 3 instalments",Ahmedabad
+Q-2026-104,Bluewave Edutech Supplies,2026-08-20,LAB-MIC,"Compound microscope, 1000x, LED, binocular",No,20,8630,18,Exclusive of GST,45,12,"40% advance, balance in 3 instalments",Pune
+Q-2026-104,Bluewave Edutech Supplies,2026-08-26,LAB-GLW,Borosilicate glassware assorted set (48 pcs),Set,8,6180,12,Exclusive of GST,45,12,"40% advance, balance in 3 instalments",Pune
+Q-2026-104,Bluewave Edutech Supplies,2026-08-26,CLS-BEN,"Classroom desk-bench unit, 2-seater, powder coated",No,120,4190,12,Exclusive of GST,45,12,"40% advance, balance in 3 instalments",Mumbai
+Q-2026-104,Bluewave Edutech Supplies,2026-08-23,CLS-BRD,"Ceramic whiteboard 8ft x 4ft, magnetic",No,24,5180,12,Exclusive of GST,45,12,"40% advance, balance in 3 instalments",Ahmedabad
+Q-2026-104,Bluewave Edutech Supplies,2026-08-18,CLS-CHR,"Teacher chair, mid-back, revolving",No,24,3620,12,Exclusive of GST,45,12,"40% advance, balance in 3 instalments",Ahmedabad
+Q-2026-104,Bluewave Edutech Supplies,2026-08-19,LIB-RCK,"Library rack, double-sided, 7 shelf, MS",No,16,10440,12,Exclusive of GST,45,12,"40% advance, balance in 3 instalments",Mumbai
+Q-2026-104,Bluewave Edutech Supplies,2026-08-25,IT-PROJ,"75 inch smart interactive panel, Android",No,10,81510,18,Exclusive of GST,45,12,"40% advance, balance in 3 instalments",Mumbai
+Q-2026-104,Bluewave Edutech Supplies,2026-08-22,SFT-EXT,ABC fire extinguisher 6kg with wall bracket,No,30,2080,12,Exclusive of GST,45,12,"40% advance, balance in 3 instalments",Mumbai
